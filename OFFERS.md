@@ -56,7 +56,8 @@ Half on delivery of the patch, half when DefiLlama merges it. No KYC, no invoice
 | **Weekly data QA for one protocol** | **$49 / month** | every Monday: is your fee feed still publishing, is your TVL series moving, did your rank change. Email or Telegram, one screen. |
 | **Full 411-row queue with contacts and break dates** | **$79** | the whole repair queue, contacts included, refreshed weekly while subscribed. |
 
-The 20% preview is in `data/sample_20pct_repair_queue.csv` — real rows, real
+The audit and the 20% preview are public: https://github.com/9xj89gzrtw-hue/defillama-fee-feed-audit
+(`data/sample_20pct_repair_queue.csv`) — real rows, real
 dates, contacts redacted after the first two.
 
 ---
@@ -72,7 +73,7 @@ dates, contacts redacted after the first two.
 > half when you get the patch, half when it merges; if the feed is off because you
 > really stopped charging, I tell you that instead and you pay nothing.
 >
-> Example of the audit: <repo link>. Payment address: 0x72Aa6edDE71B94f6b99c8e52EdC02B5C75F74d1a.
+> Example of the audit: https://github.com/9xj89gzrtw-hue/defillama-fee-feed-audit. Payment address: 0x72Aa6edDE71B94f6b99c8e52EdC02B5C75F74d1a.
 
 Channels that work from here: GitHub issue/PR comment (public, permanent), X reply
 from `@danilaonly` once the session exists, or the contact form on the protocol's
