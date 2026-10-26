@@ -1,80 +1,50 @@
-# Ready offers — 26 Oct 2026
+# How this gets used (revised 2026-10-26, after verification)
 
-Three protocols where the public fee feed is dark **right now**, the protocol is
-still running, and we can name the exact day the number stopped. Each offer is the
-same shape: we rebuild the missing series from the protocol's own contracts and
-deliver a merge-ready patch to `DefiLlama/dimension-adapters`. If the feed is
-silent because the protocol genuinely stopped charging, we say so and there is
-nothing to pay.
+The first version of this file offered "pay $150 and I will tell you how to fix
+it", sent by DM with a wallet address. That is gone. Cold DMs that pair a defect
+with a payment address read as extortion, they get accounts banned, and they are
+unnecessary: in this ecosystem the payment follows a **merged, visible
+contribution**, not a promise.
 
-Payment: **USDC on Base** or **ETH on mainnet** to
-`0x72Aa6edDE71B94f6b99c8e52EdC02B5C75F74d1a`.
-Half on delivery of the patch, half when DefiLlama merges it. No KYC, no invoice.
+The model now is GitHub-first and costs nothing to run:
 
----
+1. **Prove a defect.** Run the adapter through its own harness and hit its data
+   source directly. See [`VERIFICATION.md`](VERIFICATION.md) — of the ten largest
+   recent breaks, ten returned `0.00` because the source really was zero. There is
+   nothing to fix and nothing to announce.
+2. **Only when the source contradicts the adapter**, write the patch, run
+   `npx ts-node --transpile-only cli/testAdapter.ts fees/<slug>` until it prints
+   real numbers, and open one PR per protocol in `DefiLlama/dimension-adapters`.
+   The PR body carries: the failing behaviour, the corrected daily figure, the tx
+   hashes or log counts that prove it, and the command to reproduce.
+3. **Then** open one issue in the protocol's own repository — only if the protocol
+   still trades — with the technical finding and the link to the DefiLlama PR.
+   No price, no demand. One optional line at the end:
 
-## 1. USD AI — fee feed dark since 2026-10-18 · $150
+   > If the team has a tip jar or a contributor bounty for analytics work, this is
+   > my address: `0xbbe6966949d7265a7f5f0b793f08293b9b7fe926` (EVM). If not, the
+   > patch is yours either way.
 
-- **What is public:** $266,198,319 TVL (Arbitrum), $26.28 M of fees published over
-  the last year, **$0 for the last 7 days**. Before the break it published
-  $258,434 per day. The adapter (`fees/usdai/index.ts`) reads `FeePaid` and
-  `Harvested` events plus two Goldsky subgraphs — the subgraphs still answer, so
-  the break is in the event path, not the indexer.
-- **What we deliver:** the reconstructed daily series for the dark period from
-  Arbitrum logs, the failing component identified with the block/transaction that
-  proves it, and a patch against `fees/usdai` that restores the number. Evidence
-  file included (numbers + tx hashes + the command that produced them).
-- **Why it is worth $150 to them:** seven days of a $258 k/day revenue line reading
-  zero, on a $266 M RWA, is the first thing any allocator checks.
+4. **Ledger the outcome.** Merged PRs are the only durable asset here: they turn an
+   anonymous address into "the person who fixed X", which is what actually gets
+   paid work later.
 
-## 2. Theo Straddle Vaults — dark since 2026-10-12 · $120
+## Targets worth a patch (verified, still open)
 
-- **What is public:** $1,055,600 TVL across Base, Arbitrum, Ethereum and Linea,
-  $228,796 of fees over the year, **13 days at zero**, $7,929 per day before that.
-- **Why this one first:** it is the only recent break in the list with a Base
-  presence, so it is also the cheapest one to verify — one `eth_getLogs` sweep per
-  vault, no subgraph dependency.
-- **Deliverable:** same as above, `fees/theo-straddle-vaults` or the shared Theo
-  module, whichever the repo uses.
+| target | why it qualifies | state |
+|---|---|---|
+| `rain` (Arbitrum, $15.4 M TVL, $16.6 k/day) | adapter calls `api-v3.rain.fi/api/dirty/historical-apys`; host no longer resolves (`000`) | needs a replacement source before any PR — do not open one until the numbers can be reproduced |
+| `fluence` | adapter calls `network-dashboards-api.stage.fluence.dev`; now `404` | TVL is 0 and the feed died 208 days ago; a PR would be a dead-listing cleanup, not a repair |
 
-## 3. Badger DAO — dark since 2026-10-12 · $120
+Everything else in `data/fee_feed_breaks.csv` needs the three-step check in
+`VERIFICATION.md` before anyone is contacted. The 20% sample is public at
+`data/sample_20pct_repair_queue.csv`; the full 411 rows stay in the repo for
+reference — they are a work queue, not a list of accusations.
 
-- **What is public:** $12,643,670 TVL (Ethereum), $43,377 of fees over the year,
-  **13 days at zero**, $2,631 per day before that.
-- **Deliverable:** same. If the vaults were wound down and the fee is genuinely
-  gone, the deliverable becomes a one-paragraph note saying the feed is correct
-  and should be marked as ended — free, and still useful.
+## What not to do
 
----
-
-## Other things for sale
-
-| item | price | what it is |
-|---|---:|---|
-| **Base fee-coverage pitch list** | **$79** | the 80 Base protocols with TVL ≥ $300k and no fee page, with the contact (site, X handle), category, TVL and the exact adapter path each one needs. Delivered as CSV. |
-| **Fee-feed repair, any protocol** | **$150** | the same repair as above, any row in the 411-row queue. |
-| **Weekly data QA for one protocol** | **$49 / month** | every Monday: is your fee feed still publishing, is your TVL series moving, did your rank change. Email or Telegram, one screen. |
-| **Full 411-row queue with contacts and break dates** | **$79** | the whole repair queue, contacts included, refreshed weekly while subscribed. |
-
-The audit and the 20% preview are public: https://github.com/9xj89gzrtw-hue/defillama-fee-feed-audit
-(`data/sample_20pct_repair_queue.csv`) — real rows, real
-dates, contacts redacted after the first two.
-
----
-
-## Message to send (short, no pitch voice)
-
-> Your DefiLlama fee feed has published zero since **<date>**. Before that it was
-> **$<x>/day**, and the protocol still has **$<tvl>** TVL, so this looks like a
-> data-source break rather than a business change.
->
-> I rebuild the missing series from your own contracts and send a merge-ready
-> patch to `dimension-adapters`, with the tx hashes that prove each day. $150,
-> half when you get the patch, half when it merges; if the feed is off because you
-> really stopped charging, I tell you that instead and you pay nothing.
->
-> Example of the audit: https://github.com/9xj89gzrtw-hue/defillama-fee-feed-audit. Payment address: 0x72Aa6edDE71B94f6b99c8e52EdC02B5C75F74d1a.
-
-Channels that work from here: GitHub issue/PR comment (public, permanent), X reply
-from `@danilaonly` once the session exists, or the contact form on the protocol's
-site. Reddit and Telegram previews are blocked from this egress (403).
+- Do not DM a protocol with a wallet address and a price. That is the pattern that
+  gets X accounts banned and GitHub accounts reported.
+- Do not open a PR that "fixes" an adapter whose source legitimately returns zero.
+- Do not open more than one issue per protocol, and never re-open a closed one.
+- Do not mention payment in the DefiLlama PR itself. That repo is not a marketplace.

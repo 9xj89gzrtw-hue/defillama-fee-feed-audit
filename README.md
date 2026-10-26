@@ -11,6 +11,14 @@ Everything here is produced from DefiLlama's own public APIs
 
 ## Findings (2026-10-26)
 
+### 0. Read this first: a silent feed is usually not a broken adapter
+
+Of the ten largest and most recent breaks, all ten printed `0.00` because the data
+source genuinely reports zero (USD AI: no `FeePaid` event in two days; Theo:
+`pricePerShare` unchanged for 96 h). Mass-patching this list would have produced
+false claims against $266 M protocols. The harness run and the evidence are in
+[`VERIFICATION.md`](VERIFICATION.md) — check any row there before touching it.
+
 ### 1. 411 protocols publish a fee feed that has stopped
 
 Of the 3,069 protocols with a fee listing, **411 have recorded fees over the last
@@ -94,7 +102,8 @@ No API keys, no paid data, no RPC. Each script takes one to six minutes.
 - DefiLlama's fee overview covers 3,069 listings; protocols with no fee listing at
   all are covered by finding 2 instead.
 
-## Work available
+## Using this
 
-See [`OFFERS.md`](OFFERS.md). Payments in USDC (Base) or ETH (mainnet) to
-`0x72Aa6edDE71B94f6b99c8e52EdC02B5C75F74d1a`.
+[`OFFERS.md`](OFFERS.md) describes the GitHub-first route: prove the defect, patch
+one adapter, run the repository's harness, open one PR per protocol, and only then
+contact the team with the technical finding.
