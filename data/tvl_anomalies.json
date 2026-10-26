@@ -1,0 +1,19 @@
+{
+ "generated_at": "2026-10-26T01:20:52Z",
+ "checked": 80,
+ "anomalies": [
+  {
+   "name": "T RIZE",
+   "slug": "t-rize",
+   "tvl": 23000000,
+   "flag": "stale",
+   "value": 0,
+   "current": 23000000,
+   "high90": 23000000,
+   "d1": 0.0,
+   "d7": 0.0,
+   "url": "https://www.t-rize.io",
+   "category": "RWA"
+  }
+ ]
+}

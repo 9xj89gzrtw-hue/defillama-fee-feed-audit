@@ -1,0 +1,84 @@
+name,slug,chains,category,tvl,fees_1y,last_day,dark_days,lost_per_day_usd,lost_to_date_usd,url,twitter,sample
+Avalon USDa,avalon-usda,"Ethereum,BSC,Mantle,Sonic,Berachain,Kaia",CDP,3,2790344,2025-11-07,352,559747.65,197031173,https://www.avalonfinance.xyz,avalonfinance_,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Equilibria,equilibria,"BSC,Ethereum,OP Mainnet,Arbitrum,Mantle",Yield,11214028,1687016,2026-03-25,214,78002.53,16692541,https://equilibria.fi/home,Equilibriafi,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Autopilot,autopilot,Base,Yield Aggregator,61661,1290961,2026-03-26,213,57701.53,12290426,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Houdini Swap,houdini-swap,Ethereum,DEX Aggregator,0,679412,2026-04-22,186,27627.47,5138709,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Legion,legion,Ethereum,Launchpad,4172689,250476,2026-07-30,87,44670.14,3886302,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+VolBoost,volboost,"Ethereum,Base,BSC",Volume Boosting,0,32532,2026-04-07,201,13445.2,2702485,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+USD AI,usd-ai,Arbitrum,RWA,266198319,26281910,2026-10-18,7,258434.1,1809039,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+VibeLiquid Perps,vibeliquid-perps,Hyperliquid L1,Interface,0,182403,2026-06-02,145,9600.16,1392023,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Rezerve Money,rezerve-money,Sonic,Reserve Currency,560996,30535,2026-03-15,224,5343.03,1196839,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Dune Protocol,dune-protocol,Arbitrum,Gamified Mining,0,45636,2026-05-06,172,5704.5,981174,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+LiquidOps,liquidops,AO,Lending,0,10739,2025-11-02,357,2039.33,728041,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Looter,looter,"Ethereum,Solana,Base",Trading App,0,297371,2026-05-03,175,3384.43,592275,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+PreStocks,prestocks,Solana,RWA,0,240614,2026-06-04,143,3622.0,517946,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Lista Pre-IPO,lista-pre-ipo,BSC,Launchpad,0,6141,2026-08-14,72,6141.0,442152,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Dreamcash Markets,dreamcash-markets,Hyperliquid L1,Interface,0,1701446,2026-07-02,115,3381.33,388853,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Summer.fi Pro,summer.fi-pro,"Ethereum,Arbitrum,Base,OP Mainnet",CDP Manager,15965942,254102,2026-04-02,206,1708.57,351965,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Flex Perpetuals,flex-perpetuals,Base,Derivatives,0,272067,2026-03-08,231,1209.5,279394,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Orai Quant Terminal,orai-quant-terminal,Chain_global,Onchain Capital Allocator,771565,178524,2026-08-04,82,3132.0,256824,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+MinePea,minepea,Robinhood Chain,Gamified Mining,152,4510192,2026-09-01,54,3960.75,213880,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Pear Perps,pear-perps,Arbitrum,Derivatives,0,92894,2026-05-26,152,1101.82,167477,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Bonzo Lend,bonzo-lend,Hedera,Lending,4152779,210049,2026-08-27,59,2429.08,143316,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Derive V2,derive-v2,Derive Chain,Derivatives,295171,2133355,2026-10-05,20,6319.73,126395,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Echo.xyz,echo.xyz,Base,Private Investment Platform,0,300044,2026-10-07,18,6501.9,117034,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Defx,defx,Off Chain,Derivatives,15610,19038,2025-12-17,312,354.53,110613,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+BetSwirl,betswirl,"Avalanche,Polygon,BSC,Arbitrum,Base",Prediction Market,0,71413,2026-05-11,167,599.47,100111,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Block Analitica,block-analitica,"Ethereum,Base",Risk Curators,9153316,901068,2026-08-21,65,1280.77,83250,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+MoneyX,moneyx,BSC,Derivatives,0,53335,2026-03-03,236,320.43,75621,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Fake Wall Street,fake-wall-street,Robinhood Chain,Luck Games,6463,24852,2026-09-11,44,1461.91,64324,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+MineLoot,mineloot,Base,Gamified Mining,0,26996,2026-05-10,168,350.68,58914,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Affluent,affluent,TON,Lending,1368752,382590,2026-08-26,60,950.4,57024,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Typus DOV,typus-dov,Sui,Options Vault,926238,135836,2026-04-12,196,258.5,50666,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+CRSHMARKET,crshmarket,Monad,Prediction Market,0,94105,2026-09-18,37,1182.05,43736,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Robhood,robhood,Robinhood Chain,Gamified Mining,0,3345,2026-07-30,87,477.82,41570,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+ReyaChain,reyachain,ReyaChain,Chain,0,73988,2026-08-05,81,454.43,36809,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Everclear,everclear,Everclear,Cross Chain Bridge,0,54561,2026-05-01,177,190.2,33665,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Yeet BGT Auction,yeet-bgt-auction,Berachain,Gamified Mining,86,633443,2026-07-10,107,281.47,30117,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Dinero (pxETH),dinero-(pxeth),Ethereum,Liquid Staking,5011220,100553,2026-07-26,91,272.57,24804,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+AethonSwap,aethonswap,Monad,Dexs,214,7911,2026-01-26,272,85.3,23202,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Onus,onus,Onus,Chain,0,25925,2026-03-27,212,100.27,21257,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+DexToro,dextoro,"Solana,OP Mainnet",Trading App,0,56615,2026-07-24,93,207.83,19328,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Interest Curve,interest-curve,"Sui,Movement",Dexs,40,3631,2025-12-15,314,42.57,13367,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+flip by Spaace,flip-by-spaace,Base,Trading App,0,2406,2026-06-01,146,80.2,11709,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+GlueX,gluex,"Ethereum,Arbitrum,Base,Gnosis,BSC,Polygon,Avalanche,OP Mainnet,Blast,Linea,Mantle,Scroll,Taiko,Berachain,Sonic,Unichain,Hyperliquid L1,Plasma",DEX Aggregator,0,62650,2026-03-17,222,50.03,11107,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Drip.Trade,drip.trade,Hyperliquid L1,NFT Marketplace,0,44224,2026-06-15,132,79.45,10487,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Gacha Markets,gacha-markets,Abstract,Prediction Market,0,50037,2026-05-31,147,61.69,9068,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+TopStrike,topstrike,MegaETH,Gaming,0,185256,2026-09-17,38,207.39,7881,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Giza,giza,"Base,Hyperliquid L1,Arbitrum,Plasma",AI Agents,12803,40040,2026-07-21,96,79.59,7641,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Polynomial,polynomial,Polynomial,Chain,0,2801,2026-03-04,235,26.77,6291,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Perpetual Protocol,perpetual-protocol,OP Mainnet,Derivatives,433927,1992,2025-12-30,299,19.17,5732,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Wasabee,wasabee,Berachain,Dexs,1159,15075,2026-01-30,268,19.07,5111,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Synthetix v1+v2,synthetix-v1+v2,"OP Mainnet,Ethereum",Synthetics,0,7982,2026-02-05,262,19.0,4978,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Lyra Protocol,lyra-protocol,Ethereum,Trading App,0,4950,2026-09-23,32,137.26,4392,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Rari,rari,Rari,Chain,0,15190,2026-07-08,109,36.87,4019,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Unibot,unibot,Ethereum,Telegram Bot,0,14399,2026-06-07,140,25.92,3629,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+SX Bet V2,sx-bet-v2,SX Rollup,Prediction Market,0,2474,2026-08-26,60,56.97,3418,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Swap Country,swap-country,Harmony,Dexs,0,2237,2026-09-08,47,64.92,3051,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Falcon Bot,falcon-bot,Solana,Telegram Bot,0,1915,2026-04-20,188,14.43,2713,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+iZiSwap,iziswap,"IoTeX,BSC,ZKsync Era,Arbitrum,Meter,Aurora,Polygon,Mantle,OntologyEVM,Ultron,Linea,Scroll,Base,Manta,ZetaChain,Mode,Hemi,Monad",Dexs,1598386,53745,2026-09-13,42,57.96,2434,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Prism DEX,prism-dex,MegaETH,Dexs,0,100098,2026-09-11,44,48.88,2151,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Xeleb Protocol,xeleb-protocol,BSC,AI Agents,0,5114,2026-10-02,23,75.1,1727,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Ranger Finance Perps,ranger-finance-perps,Hyperliquid L1,Interface,0,20796,2026-03-02,237,5.43,1287,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Saros AMM,saros-amm,Solana,Dexs,44148,17250,2026-07-18,99,11.52,1140,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Sophon,sophon,Sophon,Chain,0,164204,2026-08-11,75,13.75,1031,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Monorail,monorail,Monad,DEX Aggregator,0,12012,2026-09-21,34,23.56,801,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+BrownFi V2,brownfi-v2,"Base,Arbitrum,BSC,Berachain,Hyperliquid L1,Linea,Monad",Dexs,5865,307128,2026-08-19,67,11.24,753,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+DoubleUp,doubleup,Sui,Luck Games,34962,584995,2026-09-23,32,19.21,615,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+StellaSwap V2,stellaswap-v2,"Moonbeam,Waves",Dexs,0,2628,2026-08-01,85,6.44,547,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Moonbeam,moonbeam,Moonbeam,Chain,0,3993,2026-07-31,86,5.84,502,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Vicuna Lending,vicuna-lending,Sonic,Lending,17393,3375,2026-10-15,10,43.81,438,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+dotMEGA Domains,dotmega-domains,MegaETH,Domains,0,15298,2026-10-01,24,15.99,384,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Superlend,superlend,Etherlink,Lending,5059,122875,2026-09-29,26,12.65,329,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Ape Jupiter,ape-jupiter,Solana,Launchpad,0,3978,2026-07-11,106,2.5,265,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Hermes V2,hermes-v2,Arbitrum,Yield,7052,9610,2026-10-01,24,9.32,224,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+LN Exchange Perps,ln-exchange-perps,Off Chain,Derivatives,0,5522,2026-08-06,80,2.31,185,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Pluto Perps,pluto-perps,Hyperliquid L1,Interface,0,3012,2026-10-07,18,7.69,138,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+stabble CLMM,stabble-clmm,Solana,Dexs,40,1372,2026-06-28,119,1.02,121,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Echo Liquid Staking,echo-liquid-staking,Aptos,Liquid Staking,11473,15454,2026-08-22,64,1.48,95,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+THENA PERPS,thena-perps,BSC,Derivatives,0,5803,2026-09-22,33,2.21,73,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+SailFish Finance,sailfish-finance,EDU Chain,Dexs,551,112986,2026-09-03,52,1.08,56,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Based Alpha,based-alpha,Robinhood Chain,Launchpad,13910,5922,2026-09-29,26,1.1,29,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Juiceswap,juiceswap,Citrea,Dexs,325,6612,2026-08-31,55,0.17,9,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+Haedal AMM Protocol,haedal-amm-protocol,Sui,Dexs,1429,264270,2026-09-22,33,0.12,4,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment
+ParitySwap V3,parityswap-v3,Robinhood Chain,Dexs,61,2377,2026-10-18,7,0.02,0,REDACTED IN SAMPLE,REDACTED IN SAMPLE,WATERMARKED 20% PREVIEW - full 411-row file on payment

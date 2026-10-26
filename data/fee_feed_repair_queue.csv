@@ -1,0 +1,412 @@
+name,slug,chains,category,tvl,fees_1y,last_day,dark_days,lost_per_day_usd,lost_to_date_usd,url,twitter
+Avalon USDa,avalon-usda,"Ethereum,BSC,Mantle,Sonic,Berachain,Kaia",CDP,3,2790344,2025-11-07,352,559747.65,197031173,https://www.avalonfinance.xyz,avalonfinance_
+Lava,lava,Arbitrum,Lending,0,168711,2025-12-26,303,459262.36,139156495,,LavaLending
+Kaito Capital Launchpad,kaito-capital-launchpad,Base,Launchpad,0,350000,2026-01-26,272,154803.0,42106416,https://kaito.ai/capital-launchpad,KaitoAI
+Impermax V2,impermax-v2,"ZKsync Era,Ethereum,Avalanche,Polygon,Arbitrum,Fantom,Base,Scroll,OP Mainnet,re.al,Sonic,Blast,Linea,ZKsync Lite,Unichain",Lending,530455,2735837,2026-01-24,274,85105.9,23319017,https://impermax.finance/,ImpermaxFinance
+Reental RWA,reental-rwa,Polygon,RWA,0,706774,2026-05-02,176,117795.67,20732038,https://www.reental.co/en,Reental_co
+Equilibria,equilibria,"BSC,Ethereum,OP Mainnet,Arbitrum,Mantle",Yield,11214028,1687016,2026-03-25,214,78002.53,16692541,https://equilibria.fi/home,Equilibriafi
+Pleasing Gold,pleasing-gold,"Arbitrum,Pharos",RWA,0,470741,2026-04-23,185,78456.88,14514523,https://www.pleasinggold.com/,PleasingGolden
+Qubic Idle Compute,qubic-idle-compute,Qubic,Mining Pools,0,1090170,2026-05-04,174,83316.03,14496989,,_Qubic_
+Pyth Pro,pyth-pro,Solana,Oracle,0,3209568,2026-09-08,47,291778.88,13713607,https://www.pyth.network/,PythNetwork
+Stables Labs USDX,stables-labs-usdx,"Arbitrum,BSC,Ethereum",Basis Trading,0,493684,2025-11-07,352,37571.7,13225238,,StablesLabs
+Autopilot,autopilot,Base,Yield Aggregator,61661,1290961,2026-03-26,213,57701.53,12290426,,AutoPilot_xyz
+Zivoe,zivoe,Ethereum,RWA,3044,516549,2026-06-08,139,80137.11,11139058,https://zivoe.com/,ZivoeProtocol
+Helium Network,helium-network,Solana,DePIN,0,2113392,2025-12-31,298,30810.07,9181401,https://www.helium.com/,helium
+Superchain,superchain,"Ethereum,Base,Soneium,Unichain",Services,0,4978140,2026-09-01,54,151493.9,8180671,https://optimism.io/,Optimism
+Felix USDhl,felix-usdhl,Hyperliquid L1,Yield,355273,26278,2025-12-27,302,22378.78,6758392,https://www.usefelix.xyz?ref=4BF702FF,usd_hl
+Houdini Swap,houdini-swap,Ethereum,DEX Aggregator,0,679412,2026-04-22,186,27627.47,5138709,https://houdiniswap.com/,HoudiniSwap
+Drift Trade,drift-trade,Solana,Derivatives,641023,6888033,2026-04-01,207,21180.13,4384287,https://app.drift.trade,DriftProtocol
+DoubleZero Network,doublezero-network,Solana,Developer Tools,0,1635651,2026-04-24,184,22932.53,4219586,https://doublezero.xyz/,doublezero
+Level,level,Ethereum,CDP,457877,53274,2025-10-31,359,11114.37,3990059,https://www.level.money,levelusd
+Elixir,elixir,Ethereum,Yield,17,96949,2025-11-01,358,10929.43,3912736,https://www.elixir.xyz,elixir
+Legion,legion,Ethereum,Launchpad,4172689,250476,2026-07-30,87,44670.14,3886302,https://legion.cc,legiondotcc
+Mustang Finance,mustang-finance,Saga,CDP,0,413102,2026-01-21,277,13653.6,3782047,,mustangfinance
+Step Finance,step-finance,Solana,Portfolio Tracker,0,449716,2026-02-21,246,14982.5,3685695,,StepFinance_
+Indigo,indigo,Cardano,CDP,3456767,2921435,2026-06-10,137,25041.58,3430696,https://app.indigoprotocol.io/,Indigo_protocol
+Resolv USR,resolv-usr,Ethereum,Basis Trading,6214207,8435908,2026-03-22,217,14433.73,3132119,https://app.resolv.xyz,ResolvLabs
+VolBoost,volboost,"Ethereum,Base,BSC",Volume Boosting,0,32532,2026-04-07,201,13445.2,2702485,https://volboost.com/,volboost
+Trevee Earn,trevee-earn,Sonic,Yield Aggregator,909119,90056,2026-02-04,263,9648.9,2537661,https://rings.money/,Trevee_xyz
+ShimmerBlocks,shimmerblocks,Ethereum,Block Builders,0,341480,2026-02-14,253,8514.47,2154161,https://www.shimmerblocks.com/,
+Colony,colony,Avalanche,Yield,162659,466004,2026-01-31,267,6942.83,1853736,,Colonylab
+prerich,prerich,Solana,Dexs,0,192859,2026-01-13,285,6467.17,1843143,,prerich_app
+USD AI,usd-ai,Arbitrum,RWA,266198319,26281910,2026-10-18,7,258434.1,1809039,https://usd.ai/,USDai_Official
+Beamable Network,beamable-network,Solana,DePIN,0,164745,2026-01-15,283,6336.35,1793187,https://beamable.network/,BeamableNetwork
+Quanto,quanto,Solana,Derivatives,0,49542,2025-11-11,348,4921.07,1712532,,quanto
+Euler DAO,euler-dao,"Base,Ethereum,Swellchain,Unichain,Linea,Arbitrum,Monad",Risk Curators,0,3613477,2026-05-20,158,10176.27,1607851,https://app.euler.finance,eulerfinance
+AlphaLend,alphalend,Sui,Lending,0,3241673,2026-06-03,144,10880.1,1566734,https://trade.bluefin.io/lend,bluefinapp
+VibeLiquid Perps,vibeliquid-perps,Hyperliquid L1,Interface,0,182403,2026-06-02,145,9600.16,1392023,,
+VECTOR.FUN,vector.fun,Solana,Launchpad,0,138898,2025-11-27,332,4165.47,1382936,,VECTORDOTFUN
+edgeX Perps,edgex-perps,"edgeX L1,Ethereum",Derivatives,0,226539902,2026-08-30,56,24287.3,1360089,https://pro.edgex.exchange/referral/196451583,edgeX_exchange
+SideShift,sideshift,Ethereum,Cross Chain Bridge,0,2335351,2026-06-03,144,9295.2,1338509,https://sideshift.ai,sideshiftai
+Chapool,chapool,opBNB,Physical TCG,0,1354603,2026-05-28,150,8610.94,1291641,https://h5.chapool.net/,cv_chapool
+Rezerve Money,rezerve-money,Sonic,Reserve Currency,560996,30535,2026-03-15,224,5343.03,1196839,,rezervemoney
+COAL,coal,Solana,Gamified Mining,0,203688,2026-02-26,241,4737.13,1141648,,coal_works
+Alchemix V2,alchemix-v2,"OP Mainnet,Ethereum,Arbitrum",Synthetics,80780,480165,2026-04-01,207,5295.2,1096106,https://alchemix.fi/,AlchemixFi
+Fluence,fluence,Fluence,Chain,0,247033,2026-03-31,208,5053.17,1051059,,
+STEEL,steel,Robinhood Chain,Gamified Mining,256,180219,2026-07-31,86,12014.58,1033254,,steeldotfun
+Dune Protocol,dune-protocol,Arbitrum,Gamified Mining,0,45636,2026-05-06,172,5704.5,981174, ,dunesupply
+Keyring,keyring,Avalanche,Risk Curators,663541,57476,2025-11-14,345,2533.83,874171,https://app.euler.finance/governor/keyring?network=avalanche,KeyringNetwork
+BidGrid,bidgrid,Solana,Gamified Mining,0,1092580,2026-09-30,25,30403.3,760082,https://bidgrid.win/,bidgridwin
+Lifinity V1,lifinity-v1,Solana,Dexs,74343,54369,2025-11-20,339,2220.53,752760,https://lifinity.io/,Lifinity_io
+Rain,rain,Arbitrum,Prediction Market,15373366,1485276,2026-09-11,44,16592.6,730074,https://www.rain.one/,Rain__Protocol
+LiquidOps,liquidops,AO,Lending,0,10739,2025-11-02,357,2039.33,728041,https://app.liquidops.io/,Liquid_Ops
+Megamine,megamine,MegaETH,Gamified Mining,0,31460,2026-03-19,220,3146.0,692120,https://megamine.app/,0xmegamine
+Merkle Trade,merkle-trade,Aptos,Derivatives,0,308542,2026-02-05,262,2517.4,659559,https://merkl.xyz/,merkle_trade
+Chutes,chutes,Bittensor,Decentralized AI,50722787,3693238,2026-09-06,49,12447.0,609903,https://chutes.ai/,chutes_ai
+Aave Labs,aave-labs,"Ethereum,Base,Gnosis,Arbitrum",Developer Tools,0,4313246,2026-09-24,31,19410.74,601733,https://app.aave.com/,aave
+Looter,looter,"Ethereum,Solana,Base",Trading App,0,297371,2026-05-03,175,3384.43,592275,https://www.looter.ai/,looter_ai
+flowr,flowr,Robinhood Chain,Gamified Mining,0,94566,2026-07-27,90,6304.4,567396,,FlowrHoodApp
+Vectis Finance,vectis-finance,Solana,Yield,5118780,362777,2026-10-05,20,28358.62,567172,https://vectis.finance,vectis_finance
+Echo Strategy,echo-strategy,Aptos,Yield Aggregator,0,69018,2026-08-24,62,8929.17,553609,https://www.echo-protocol.xyz/,EchoProtocol_
+Earnm,earnm,Earnm,Chain,0,101079,2025-12-19,310,1732.93,537208,,
+PreStocks,prestocks,Solana,RWA,0,240614,2026-06-04,143,3622.0,517946,https://prestocks.com/,PreStocks
+Coinbase Commerce,coinbase-commerce,"Ethereum,Base,Polygon",Payments,0,445373,2026-04-01,207,2210.23,457518,https://www.coinbase.com/commerce,CommerceCB
+Vaultka,vaultka,Arbitrum,Yield,6309,2295,2025-11-26,333,1352.87,450506,https://www.vaultka.com,Vaultkaofficial
+Multipli.fi,multipli.fi,"BSC,Ethereum,Avalanche",Yield,0,1670326,2026-08-03,83,5369.23,445646,,multiplifi
+Playground,playground,Aptos,Payments,0,6058,2026-01-05,293,1514.5,443748,https://playgrounddrops.com,PlaygroundDrops
+Lista Pre-IPO,lista-pre-ipo,BSC,Launchpad,0,6141,2026-08-14,72,6141.0,442152,https://lista.org/pre-ipo,LISTA_DAO
+WBTC,wbtc,Ethereum,Bridge,9324353530,1292577,2026-10-02,23,19103.38,439378,https://wbtc.network/,WrappedBTC
+waveX,wavex,Soneium,Derivatives,2088,32134,2026-01-20,278,1467.07,407845,https://wavex.fi,waveX_fi
+KGeN,kgen,"Aptos,Polygon",SoFi,0,110997,2026-03-19,220,1848.23,406611,https://kgen.io/,KGeN_IO
+UniversalX,universalx,"BSC,Arbitrum,Ethereum,Polygon,OP Mainnet,Avalanche,Base,Monad",Trading App,0,503603,2026-04-20,188,2156.6,405441,https://universalx.app,UseUniversalX
+Dreamcash Markets,dreamcash-markets,Hyperliquid L1,Interface,0,1701446,2026-07-02,115,3381.33,388853,https://www.dreamcash.xyz/,Dreamcash
+Mars Perps,mars-perps,Neutron,Derivatives,0,38958,2025-12-29,300,1260.1,378030,,mars_protocol
+Emporium,emporium,Solana,Physical TCG,0,3416,2025-12-05,324,1157.3,374965,,TCG_Emporium
+Macaron.bid,macaron.bid,Solana,Gamified Mining,145,13357841,2026-02-25,242,1543.17,373447,,macaron_bid
+Strike,strike,Ethereum,Lending,2744,67740,2026-06-07,140,2517.67,352474,,StrikeFinance
+Summer.fi Pro,summer.fi-pro,"Ethereum,Arbitrum,Base,OP Mainnet",CDP Manager,15965942,254102,2026-04-02,206,1708.57,351965,,summerfinance_
+Derive Options,derive-options,Derive Chain,Options,0,3418209,2026-10-05,20,16843.77,336875,https://app.derive.xyz,derivexyz
+AFX Perps,afx-perps,AFX L1,Derivatives,0,338968,2026-08-11,75,4075.43,305657,https://app.afx.xyz/trade,AFX_XYZ
+Nouns,nouns,Ethereum,Services,0,318134,2026-05-29,149,2034.17,303091,https://nouns.wtf,nounsdao
+ROAR,roar,Robinhood Chain,Gamified Mining,475,32253,2026-08-07,79,3583.67,283110,https://roar.supply/,roar_supply
+Flex Perpetuals,flex-perpetuals,Base,Derivatives,0,272067,2026-03-08,231,1209.5,279394,https://flex.trade,Flexperpetuals
+PAAL AI,paal-ai,Ethereum,Telegram Bot,0,147644,2026-09-30,25,10880.23,272006,https://www.paal.ai/,PaalMind
+FOOM Cash,foom-cash,"Base,Ethereum",Privacy,0,234782,2026-02-26,241,1119.93,269903,,FOOMCASH
+Canto Lending,canto-lending,Canto,Lending,0,149852,2026-05-30,148,1797.9,266089,,CantoPublic
+Stout,stout,Sonic,CDP,13,17523,2026-03-23,216,1224.33,264455,,stout_fi
+Orai Quant Terminal,orai-quant-terminal,Chain_global,Onchain Capital Allocator,771565,178524,2026-08-04,82,3132.0,256824,https://quant.orai.io/vault,oraichain
+Cap Finance V4,cap-finance-v4,Arbitrum,Derivatives,10885,9292,2026-06-13,134,1824.33,244460,,CapDotFinance
+Galaxy Digital HYPE Staking,galaxy-digital-hype-staking,Hyperliquid L1,Staking Pool,0,169811,2026-08-06,80,2873.23,229858,https://app.hyperliquid.xyz/staking,HyperliquidX
+Santa Browser,santa-browser,Aptos,Services,0,76342,2026-03-20,219,1009.9,221168,https://santabrowser.com,SantaBrowser
+b402,b402,Base,Payments,0,1025667,2026-07-25,92,2391.17,219988,https://www.b402.ai/,b402ai
+MinePea,minepea,Robinhood Chain,Gamified Mining,152,4510192,2026-09-01,54,3960.75,213880,,minepea_
+Integral,integral,"Ethereum,Arbitrum",Dexs,6508,508686,2026-08-21,65,3164.4,205686,https://integral.link/,IntegralHQ
+Collex,collex,Aptos,Physical TCG,19466,231237,2026-03-12,227,839.6,190589,,collexdotfun
+BMX Classic Perps,bmx-classic-perps,"Base,Mode",Derivatives,111619,148954,2026-01-05,293,600.1,175829,https://www.bmx.trade/,useboardwalk
+Mercury,mercury,Hyperliquid L1,Gamified Mining,0,17419,2026-08-08,78,2177.32,169831, ,MRCYsupply
+Pear Perps,pear-perps,Arbitrum,Derivatives,0,92894,2026-05-26,152,1101.82,167477,https://www.pear.garden/,pear_protocol
+Capx AI,capx-ai,Capx Chain,AI Agents,0,480156,2026-07-30,87,1814.47,157859,https://capx.ai,0xcapx
+Migrate.Fun,migrate.fun,"Solana,Ethereum",Interface,0,752822,2026-10-09,16,9619.97,153920,https://migrate.fun/,MigrateFun
+Parcl V3,parcl-v3,Solana,Derivatives,761767,102122,2026-04-21,187,799.1,149432,https://www.parcl.co,Parcl
+Aries Markets,aries-markets,Aptos,Lending,73870,300791,2026-08-25,61,2443.27,149039,https://ariesmarkets.xyz,AriesMarkets
+Bonzo Lend,bonzo-lend,Hedera,Lending,4152779,210049,2026-08-27,59,2429.08,143316,https://bonzo.finance/,bonzo_finance
+Edel,edel,Ethereum,Lending,862,47729,2026-07-25,92,1553.17,142892,https://www.edel.finance/,edeldotfinance
+Purrlend,purrlend,"Hyperliquid L1,MegaETH",Lending,462,31344,2026-04-25,183,745.4,136408,,purrlend
+Fwog.fun,fwog.fun,Solana,Launchpad,0,4779,2026-02-23,244,531.0,129564,,PerpetualCow
+Dango Perps,dango-perps,Dango Mainnet,Derivatives,0,324217,2026-07-29,88,1459.23,128412,,dango
+Derive V2,derive-v2,Derive Chain,Derivatives,295171,2133355,2026-10-05,20,6319.73,126395,https://app.derive.xyz,derivexyz
+Ventuals,ventuals,Hyperliquid L1,Interface,389953,255991,2026-06-19,128,980.67,125526,https://ventuals.com/trade,ventuals
+Pizza City,pizza-city,Base,Gamified Mining,0,782198,2026-03-10,229,521.97,119531,,
+FlashTrade,flashtrade,Solana,Derivatives,218198,2257935,2026-09-02,53,2237.03,118563,https://www.flash.trade,FlashTrade
+Aura,aura,Ethereum,Yield,9482244,423515,2026-05-04,174,678.07,117984,https://aura.finance,aurafinance
+Echo.xyz,echo.xyz,Base,Private Investment Platform,0,300044,2026-10-07,18,6501.9,117034,https://echo.xyz/,echodotxyz
+YieldFi,yieldfi,"Base,OP Mainnet,Ethereum,Arbitrum,Sonic,Plume Mainnet,TAC,BSC,Katana,Avalanche,Plasma",Yield Aggregator,11287258,1620058,2026-04-30,178,654.47,116496,https://yield.fi/,getyieldfi
+FWX Derivatives,fwx-derivatives,"Avalanche,Base,Ethereum,OP Mainnet,Arbitrum,Fantom,BSC",Derivatives,580,14569,2026-02-22,245,475.03,116382,https://fwx.finance/,fwxfinance
+SundaeSwap V2,sundaeswap-v2,Cardano,Dexs,495853,172869,2026-10-05,20,5568.49,111370,https://sundae.fi/,SundaeSwap
+StackingDAO,stackingdao,Stacks,Liquid Staking,74898370,425373,2026-08-12,74,1497.1,110785,https://app.stackingdao.com,StackingDao
+Defx,defx,Off Chain,Derivatives,15610,19038,2025-12-17,312,354.53,110613,,DefxOfficial
+Sentinel Trader Bot,sentinel-trader-bot,Solana,Trading App,1696,1849,2026-02-28,239,455.27,108810,https://www.sentineltraderbot.com/,sentbottrader
+Permapod,permapod,ZIGChain,Lending,1434240,230122,2026-08-29,57,1906.57,108674,https://www.permapod.xyz/,PermaPod_xyz
+Impermax V3,impermax-v3,"Unichain,Hyperliquid L1,Base",Lending,2345,24947,2026-01-22,276,379.57,104761,https://impermax.finance,ImpermaxFinance
+Theo Straddle Vaults,theo-straddle-vaults,"Base,Arbitrum,Ethereum,Linea",Basis Trading,1055600,228796,2026-10-12,13,7928.67,103073,https://app.theo.xyz/invite?invite=defillama,Theo_Network
+BetSwirl,betswirl,"Avalanche,Polygon,BSC,Arbitrum,Base",Prediction Market,0,71413,2026-05-11,167,599.47,100111,,BetSwirl
+Gyroscope Protocol,gyroscope-protocol,"Base,Ethereum,Avalanche,Arbitrum,Gnosis,OP Mainnet",Dexs,410967,47003,2026-08-08,78,1280.51,99880,https://app.gyro.finance/,GyroStable
+PEPTIDES,peptides,Solana,Interface,0,89525,2026-08-29,57,1680.37,95781,https://peptimart.xyz,Peptimart_
+CZT,czt,Aptos,SoFi,0,5743,2026-03-23,216,441.77,95422,https://czt.app,CZTapp
+Clipper,clipper,"Polygon,OP Mainnet,Ethereum,Arbitrum,Moonbeam,Mantle,Base,Polygon zkEVM",Dexs,766183,31010,2025-12-26,303,309.87,93891,https://clipper.exchange,Clipper_DEX
+Block Analitica,block-analitica,"Ethereum,Base",Risk Curators,9153316,901068,2026-08-21,65,1280.77,83250,https://blockanalitica.com/,BlockAnalitica
+Ajna V1,ajna-v1,Ethereum,Lending,13277,33986,2026-09-15,40,2013.31,80532,https://www.ajna.finance/,ajnafi
+Yala,yala,Ethereum,CDP,2318871,780310,2026-10-09,16,4848.65,77578,https://www.yala.org,yalaorg
+Felix Perps,felix-perps,Hyperliquid L1,Interface,0,813636,2026-06-20,127,607.27,77123,https://www.usefelix.xyz?ref=4BF702FF,felixprotocol
+DoubleZero Edge,doublezero-edge,Solana,Developer Tools,0,413421,2026-09-05,50,1530.56,76528,https://doublezero.xyz/dz-edge,doublezero
+MoneyX,moneyx,BSC,Derivatives,0,53335,2026-03-03,236,320.43,75621,https://moneyxpro.com,BESCLLC
+Mu Digital,mu-digital,"Ethereum,Monad",RWA,0,434211,2026-06-25,122,587.1,71626,https://mudigital.net,MuDigitalHQ
+ZORB,zorb,Solana,Gamified Mining,0,969716,2026-03-24,215,327.8,70477,https://zorb.supply,ZORBsupply
+Valas Finance,valas-finance,BSC,Lending,0,291488,2026-10-16,9,7486.07,67375,,ValasFinance
+The Index,the-index,Robinhood Chain,Indexes,0,1874116,2026-10-18,7,9418.2,65927,https://theindex.finance,TheIndexFi
+Fake Wall Street,fake-wall-street,Robinhood Chain,Luck Games,6463,24852,2026-09-11,44,1461.91,64324,https://fws.fun,fwsfun
+Moonwell Apollo,moonwell-apollo,Moonriver,Lending,0,39039,2026-07-29,88,709.4,62427,https://moonwell.fi,MoonwellDeFi
+Salsadex,salsadex,Orderly Network,Interface,0,7498,2025-12-15,314,198.1,62203,,Salsadex_
+ClaimRush,claimrush,Base,Gamified Mining,0,635106,2026-09-25,30,2065.64,61969, ,claimrushgame
+CHOPCORP,chopcorp,Solana,Gamified Mining,43,5045060,2026-05-18,160,379.53,60725,,Chopcorpsol
+MineLoot,mineloot,Base,Gamified Mining,0,26996,2026-05-10,168,350.68,58914,,mineloot_
+Mog,mog,Robinhood Chain,Derivatives,21161,46365,2026-10-05,20,2897.82,57956,https://app.mog.xyz/,getonmog
+MachFi,machfi,Sonic,Lending,3614,22855,2026-07-29,88,653.43,57502,https://www.machfi.xyz/,machfi_xyz
+Solomon USDv,solomon-usdv,Solana,Basis Trading,8837524,32513,2026-08-27,59,970.7,57271,https://solomonlabs.org/,solomon_labs
+SMARDEX P2P Lending,smardex-p2p-lending,Ethereum,Lending,5846,7569,2026-06-12,135,423.19,57131,https://smardex.io,SmarDex
+Affluent,affluent,TON,Lending,1368752,382590,2026-08-26,60,950.4,57024,https://affluent.org,AffluentOrg
+Alkimi,alkimi,Sui,Services,0,475269,2026-08-11,75,728.3,54622,https://labs.alkimi.org/,AlkimiExchange
+Calculus,calculus,BSC,AI Agents,3299,9697,2026-02-10,257,205.63,52847,https://www.calculus.finance/,CalculusFinance
+SuperX Perps,superx-perps,Hyperliquid L1,Interface,0,126638,2026-05-21,157,334.7,52548,,trysuper_
+AveForge,aveforge,MegaETH,Gaming,0,25087,2026-06-03,144,354.25,51012, ,AveForge
+Typus DOV,typus-dov,Sui,Options Vault,926238,135836,2026-04-12,196,258.5,50666,https://typus.finance,TypusFinance
+AlphaSec Spot,alphasec-spot,AlphaSec,Dexs,0,1542892,2026-10-06,19,2483.47,47186,https://app.alphasec.trade,AlphaSec_Trade
+MORE Markets,more-markets,Flow,Lending,4024140,302167,2026-09-02,53,884.17,46861,https://www.more.markets,MORE_DeFi
+XCHAIN,xchain,Xchain,Chain,0,67475,2026-01-23,275,166.83,45878,,
+Cook Market,cook-market,Robinhood Chain,Launchpad,0,105739,2026-10-15,10,4405.81,44058,,cookdotmarket
+CRSHMARKET,crshmarket,Monad,Prediction Market,0,94105,2026-09-18,37,1182.05,43736,https://app.crshmarket.com/,
+Liquid Ron,liquid-ron,Ronin,Liquid Staking,37529,38817,2026-03-08,231,187.33,43273,https://www.liquidron.com/,Ronin_Network
+HYENA,hyena,Hyperliquid L1,Interface,0,1898348,2026-09-02,53,813.33,43106,https://app.hyena.trade,hyenatrade
+FrothSwap,frothswap,Robinhood Chain,Dexs,39307,7335,2026-07-31,86,489.03,42057,https://froth.meme/,froth_meme
+Land Bid,land-bid,Base,Gamified Mining,0,2296263,2026-07-09,108,385.33,41616, ,landbidbase
+Robhood,robhood,Robinhood Chain,Gamified Mining,0,3345,2026-07-30,87,477.82,41570,,robhoodApp
+Oxium,oxium,Sei,Dexs,1590,133486,2026-03-23,216,188.23,40658,https://oxium.xyz/,oxiumxyz
+MatrixDock XAUM,matrixdock-xaum,Chain_global,RWA,0,45933,2026-10-12,13,2984.0,38792,https://www.matrixdock.com/home,matrixdock
+WELEPHANT,welephant,BSC,Gamified Mining,0,67781,2026-05-29,149,258.87,38572,https://welephant.xyz,ElephantStatus
+Loopr,loopr,Robinhood Chain,Yield,0,5767,2026-09-16,39,961.09,37483,,LooprFund
+ReyaChain,reyachain,ReyaChain,Chain,0,73988,2026-08-05,81,454.43,36809,,
+KongSwap,kongswap,ICP,Dexs,0,87829,2026-03-29,210,174.97,36744,https://www.kongswap.io/swap,kongswap
+Monday Trade Perps,monday-trade-perps,Monad,Derivatives,579898,35758,2026-05-08,170,202.41,34410,https://app.monday.trade/,MondayTrade_
+Taraswap,taraswap,Taraxa,Dexs,0,11082,2026-02-02,265,129.5,34318,https://www.taraswap.app,Tara_Swap
+Badger DAO,badger-dao,Ethereum,Yield Aggregator,12643670,43377,2026-10-12,13,2630.51,34197,https://badger.com/,BadgerDAO
+Everclear,everclear,Everclear,Cross Chain Bridge,0,54561,2026-05-01,177,190.2,33665,,EverclearOrg
+Hfun,hfun,Hyperliquid L1,Launchpad,0,3307,2026-01-31,267,125.7,33562,https://hypurr.fun/,Hypurrfun
+Lamboo,lamboo,Aptos,DEX Aggregator,0,107281,2026-05-15,163,202.8,33056,,Lamboo_fi
+Karura,karura,Karura,Chain,0,5260,2026-07-24,93,350.67,32612,,
+XTrade Protocol Spot,xtrade-protocol-spot,Solana,Trading App,0,6476,2026-02-14,253,126.2,31929,https://xtrade.gg/,xtrade_gg
+Yeet BGT Auction,yeet-bgt-auction,Berachain,Gamified Mining,86,633443,2026-07-10,107,281.47,30117,https://www.yeetit.xyz/,eatsleepyeet
+Hit One,hit-one,MegaETH,Interface,0,19799,2026-06-10,137,201.83,27651,https://app.hit.one/r/5YPD66,hitdotone
+Stride,stride,"Osmosis,CosmosHub,Stargaze,Juno,Evmos,Terra Classic,Celestia,dYdX,Dymension,Injective,UX,Comdex,HAQQ,BandChain",Liquid Staking,4456354,1304185,2026-10-12,13,2052.93,26688,https://stride.zone/,stride_zone
+Pyth Core,pyth-core,"World Chain,BSC,Chiliz,ZKsync Era,Ink,KCC,Sei,Data Network,Sui,Avalanche,Base,Boba,Camp Network,Celo,CORE,Etherlink,Flow,Hemi,IOTA,Kava,Mezo,Mode,Near,Gnosis,ZetaChain,Aptos,Blast,Linea,Manta,Meter,Monad,Morph,Ronin,Sonic,Superseed,Taiko,WEMIX3.0,Aurora,Cronos,Hedera,Kaia,Mantle,Merlin,opBNB,Plasma,Scroll,Solana,Conflux,Eventum,Gravity by Galxe,Polygon,Soneium,Abstract,ApeChain,Arbitrum,Ethereum,Filecoin,Neon,OP Mainnet,Unichain,Berachain,Injective,Polynomial,Swellchain,Hyperliquid L1,ShimmerEVM,Cronos zkEVM,Polygon zkEVM",Oracle,0,297468,2026-08-26,60,441.02,26461,https://www.pyth.network/,PythNetwork
+Kofi Finance,kofi-finance,Aptos,Liquid Staking,0,91247,2026-06-10,137,191.43,26226,https://kofi.finance,kofi_finance
+Dinero (pxETH),dinero-(pxeth),Ethereum,Liquid Staking,5011220,100553,2026-07-26,91,272.57,24804,https://dinero.xyz,dinero_xyz
+Moar Market,moar-market,Aptos,Leveraged Farming,0,127581,2026-05-19,159,155.82,24775,https://moar.market,MoarMarket
+Zentra Finance,zentra-finance,Citrea,Lending,8692,25806,2026-09-12,43,576.1,24772,https://zentra.finance/,ZentraFinance
+Permute,permute,"Bitcoin,Ethereum,BSC,Avalanche,Doge,Tron,Solana,Arbitrum,Litecoin,Bitcoincash,Berachain",Bridge,0,3946,2026-01-31,267,92.77,24770,,permute_finance
+Pokeliquid,pokeliquid,Solana,Derivatives,3,12679,2026-07-24,93,251.9,23427,https://www.pokeliquid.xyz/,pokeliq
+AethonSwap,aethonswap,Monad,Dexs,214,7911,2026-01-26,272,85.3,23202,,aethonswap
+Hivemapper,hivemapper,Solana,DePIN,0,461936,2026-10-16,9,2537.9,22841,https://hivemapper.com/,hivemapper
+WOOFi Swap,woofi-swap,"BSC,Avalanche,Fantom,Polygon,Arbitrum,OP Mainnet,ZKsync Era,Linea,Base,Mantle,Sonic",Dexs,3385706,564310,2026-09-01,54,421.57,22765,https://woofi.com,_WOOFi
+MilkyWay Liquid Staking,milkyway-liquid-staking,Osmosis,Liquid Staking,0,19407,2026-01-15,283,78.83,22309,,milky_way_zone
+Joe Lend,joe-lend,Avalanche,Lending,0,18103,2026-05-01,177,120.47,21323,https://v1.lfj.gg/lend#/,LFJ_gg
+Onus,onus,Onus,Chain,0,25925,2026-03-27,212,100.27,21257,,
+boop.fun,boop.fun,Solana,Launchpad,14625,8532,2026-07-31,86,246.9,21233,https://boop.fun/,boopdotfun
+Javsphere,javsphere,"DefiChain,Base",Derivatives,50862,33041,2026-09-01,54,390.39,21081,https://javsphere.com/,Javsphere
+Sendshot,sendshot,Solana,Launchpad,0,12207,2026-09-05,50,409.42,20471,https://www.sendai.fun/,sendaifun
+Jeton,jeton,"Ethereum,Polygon,OP Mainnet,BSC,Arbitrum,Avalanche,Scroll,ZKsync Era,Base",DEX Aggregator,0,5824,2026-01-15,283,71.43,20215,https://www.jetonai.com/,Jeton_Protocol
+DexToro,dextoro,"Solana,OP Mainnet",Trading App,0,56615,2026-07-24,93,207.83,19328,https://www.dextoro.com/,DexToroApp
+Molten V3,molten-v3,CORE,Dexs,206385,24074,2026-10-07,18,1059.7,19075,https://molten.finance/,moltendex
+Superstack Perps,superstack-perps,Hyperliquid L1,Interface,0,2894,2026-02-05,262,72.13,18898,,superstackxyz
+Rujira Trade,rujira-trade,THORChain,Dexs,0,146225,2026-09-29,26,628.1,16331,https://rujira.network,RujiraNetwork
+Typus Safu,typus-safu,Sui,Yield,125892,19103,2026-04-12,196,74.57,14616,https://typus.finance/safu,TypusFinance
+Interest Curve,interest-curve,"Sui,Movement",Dexs,40,3631,2025-12-15,314,42.57,13367,https://www.interest.xyz/,InterestDEX
+Yearn Ether,yearn-ether,Ethereum,Indexes,0,1344,2025-11-29,330,38.53,12715,https://yeth.yearn.fi,yearnfi
+HoldStation DeFutures,holdstation-defutures,"ZKsync Era,Berachain,World Chain,BSC",Derivatives,0,554998,2026-05-05,173,70.63,12219,https://holdstation.exchange,HoldstationW
+Zerion Wallet,zerion-wallet,"BSC,OP Mainnet,Ethereum,Polygon,Arbitrum,Base,Monad",Wallets,0,170494,2026-09-03,52,233.32,12133,https://zerion.io,zerion
+Seda,seda,Seda,Chain,0,15078,2026-03-12,227,52.8,11986,,
+flip by Spaace,flip-by-spaace,Base,Trading App,0,2406,2026-06-01,146,80.2,11709,,spaace_io
+Liquidswap HL,liquidswap-hl,Hyperliquid L1,DEX Aggregator,0,57858,2026-05-28,150,75.76,11364,https://liqd.ag/,LiquidLaunchHL
+Kyan Blue Perps,kyan-blue-perps,Off Chain,Derivatives,46,2761,2026-06-08,139,81.52,11331,https://app.kyan.blue/perps,KyanExchange
+Arbitrum Timeboost,arbitrum-timeboost,Arbitrum,MEV,0,3291276,2026-09-23,32,354.07,11330,https://arbitrum.io/,arbitrum
+Robin,robin,Robinhood Chain,Domains,0,2264,2026-09-10,45,251.55,11320,,dotrobinxyz
+GlueX,gluex,"Ethereum,Arbitrum,Base,Gnosis,BSC,Polygon,Avalanche,OP Mainnet,Blast,Linea,Mantle,Scroll,Taiko,Berachain,Sonic,Unichain,Hyperliquid L1,Plasma",DEX Aggregator,0,62650,2026-03-17,222,50.03,11107,,GluexProtocol
+NextRare,nextrare,MegaETH,Physical TCG,0,77713,2026-09-27,28,391.37,10958,https://nextrare.cards/,NextRare_cards
+ODOS,odos,"OP Mainnet,Ethereum,Polygon zkEVM,Avalanche,Polygon,Arbitrum,Base,Fantom,BSC,ZKsync Era,Mode,Linea,Mantle,Scroll,Fraxtal,Sonic,Unichain",DEX Aggregator,0,1350858,2026-07-28,89,122.2,10876,https://app.odos.xyz,odosprotocol
+OdinBot,odinbot,Solana,Trading App,0,129282,2026-07-24,93,116.7,10853,https://www.odinbot.io/,OdinBotio
+Zapzy,zapzy,Solana,Launchpad,0,25689,2026-06-14,133,80.58,10717,,zapzyio
+Drip.Trade,drip.trade,Hyperliquid L1,NFT Marketplace,0,44224,2026-06-15,132,79.45,10487,https://drip.trade/,drip__trade
+Heaven,heaven,Solana,Dexs,0,93064,2026-06-09,138,75.05,10357,https://heaven.xyz/,heavendex
+BlueMove Staking,bluemove-staking,"Aptos,Sui",NFT Marketplace,0,8916,2026-07-30,87,116.6,10144,,BlueMove_OA
+StonkBrokers Broker Box,stonkbrokers-broker-box,Robinhood Chain,Luck Games,0,6156,2026-09-19,36,256.49,9234,https://www.stonkbrokers.cash,ClutchMarkets
+Rocket Perp,rocket-perp,Off Chain,Derivatives,0,39723,2026-09-04,51,179.45,9152,https://beta.rocketfi.io/trade,RCKTFoundation
+Gacha Markets,gacha-markets,Abstract,Prediction Market,0,50037,2026-05-31,147,61.69,9068,https://gacha.game/,gacha_game_
+Rankz,rankz,Robinhood Chain,Physical TCG,0,20836,2026-10-18,7,1281.65,8972,,rankzdotfun
+ThalaSwap V2,thalaswap-v2,Aptos,Dexs,502192,71443,2026-05-14,164,50.97,8359,https://www.thala.fi/,ThalaLabs
+Hover,hover,Kava,Lending,2306,4764,2026-09-15,40,208.7,8348,,hover_market
+DeFi Dollar,defi-dollar,Ethereum,CDP,1319,3897,2026-07-15,102,80.2,8180,https://defidollar.io/,DeFiDollarIO
+TopStrike,topstrike,MegaETH,Gaming,0,185256,2026-09-17,38,207.39,7881,https://topstrike.io,TopStrikeIO
+SpaceWhale,spacewhale,Arbitrum,Derivatives,339,3693,2026-08-16,70,112.58,7881,https://spacewhale.ai,SpaceWhaleDex
+Rain.fi,rain.fi,Solana,Lending,0,197885,2026-08-30,56,138.91,7779,https://rain.fi,RainFi_
+HypurrQuant,hypurrquant,Hyperliquid L1,DEX Aggregator,0,36008,2026-10-11,14,555.35,7775,https://hypurrquant.com/,hypurrquant
+StellaSwap V4,stellaswap-v4,Moonbeam,Dexs,0,165353,2026-07-31,86,89.73,7717,https://stellaswap.com,StellaSwap
+Giza,giza,"Base,Hyperliquid L1,Arbitrum,Plasma",AI Agents,12803,40040,2026-07-21,96,79.59,7641,,gizatechxyz
+RateX DEX,ratex-dex,Solana,Yield,2379552,2347064,2026-10-13,12,601.08,7213,https://app.rate-x.io,RateX_Dex
+SecondSwap,secondswap,"Ethereum,Avalanche",OTC Marketplace,82,1295,2026-03-15,224,31.43,7040,https://www.secondswap.io/,secondswap_io
+Ebisu V2,ebisu-v2,"Ethereum,Plasma",CDP,0,10565,2026-08-20,66,105.84,6985,https://ebisu.money/,Ebisu_Finance
+Tron Services,tron-services,Tron,Staking Rental,0,20705,2026-08-13,73,93.32,6812,https://tron-services.xyz,tron_services
+Polynomial,polynomial,Polynomial,Chain,0,2801,2026-03-04,235,26.77,6291,,
+Mixoor,mixoor,Solana,Privacy,78,4372,2026-06-13,134,46.91,6286,https://mixoor.fun/,Mixoordotfun
+user.fun,user.fun,Solana,Launchpad,0,2500,2026-09-29,26,227.3,5910,,Userdotfun
+Cronos,cronos,Cronos,Chain,0,116115,2026-08-12,74,79.27,5866,,
+Radpie,radpie,"BSC,Arbitrum,Ethereum",Yield,6958333,1186,2026-07-18,99,58.65,5806,https://www.radiant.magpiexyz.io/stake,Radpiexyz_io
+Perpetual Protocol,perpetual-protocol,OP Mainnet,Derivatives,433927,1992,2025-12-30,299,19.17,5732,,perpprotocol
+PaintSwap on Fantom,paintswap-on-fantom,"Fantom,Sonic",Dexs,9226,1732,2025-12-26,303,18.8,5696,https://paintswap.finance,paint_swap
+Verus Market,verus-market,Verus,Dexs,2807614,12875,2026-07-23,94,59.8,5621,https://eth.verusbridge.io/,VerusCoin
+Solarbeam,solarbeam,Moonriver,Dexs,0,8232,2026-08-01,85,64.82,5510,,Solarbeamio
+Frax FPI,frax-fpi,Ethereum,Algo-Stables,94372,7196,2026-10-02,23,238.41,5483,https://frax.com/,fraxfinance
+Wasabee,wasabee,Berachain,Dexs,1159,15075,2026-01-30,268,19.07,5111,,WasabeeFi
+DSX,dsx,Solana,Telegram Bot,0,4880,2025-12-24,305,16.57,5054,https://dsx.ag/,DSXTrade
+Nova,nova,Solana,Telegram Bot,0,1167,2026-08-18,68,73.99,5031,,TradeonNova
+ColorPool,colorpool,Chromia,Dexs,54551,3665,2026-04-17,191,26.33,5029,https://dex.colorpool.xyz/,colorpool_xyz
+Rheo,rheo,"Base,Ethereum",Lending,15225,1015,2026-06-02,145,34.63,5021,https://app.rheo.xyz/,rheo_xyz
+Synthetix v1+v2,synthetix-v1+v2,"OP Mainnet,Ethereum",Synthetics,0,7982,2026-02-05,262,19.0,4978,https://synthetix.io,synthetix
+Ethereal DEX,ethereal-dex,Ethereal,Derivatives,1570459,2939946,2026-09-13,42,116.57,4896,https://app.ethereal.trade/,etherealdex
+NodeOps,nodeops,"Off Chain,Arbitrum,BSC,Base,Polygon",DePIN,0,233833,2026-10-07,18,270.0,4860,https://nodeops.network/,NodeOpsHQ
+Pingu Exchange,pingu-exchange,"Arbitrum,Monad",Derivatives,22079,62700,2026-07-30,87,55.49,4828,,PinguExchange
+Kiyotaka Prediction Market,kiyotaka-prediction-market,Polygon,Interface,0,2521,2026-07-06,111,39.74,4411,https://kiyotaka.ai/,kiyotaka_ai
+Lyra Protocol,lyra-protocol,Ethereum,Trading App,0,4950,2026-09-23,32,137.26,4392,https://www.lyraprotocol.app/,lyraprotocolapp
+Echo Lending,echo-lending,Aptos,Lending,2551,230598,2026-08-06,80,54.73,4378,https://www.echo-protocol.xyz,EchoProtocol_
+Shuriken,shuriken,"Ethereum,Solana",Services,0,20778,2026-07-13,104,41.46,4312,,ShurikenTrade
+Rifts Finance,rifts-finance,Solana,Yield,37,4240,2026-06-25,122,34.9,4258,,RiftsFinance
+K-BIT,k-bit,Kaia,Derivatives,482,36295,2026-07-01,116,35.22,4086,,kbit_xyz
+Rari,rari,Rari,Chain,0,15190,2026-07-08,109,36.87,4019,,
+ToroDex,torodex,Orderly Network,Interface,0,4215,2026-06-30,117,33.17,3881,https://torodex.xyz/,torodex_xyz
+Pika V4,pika-v4,OP Mainnet,Derivatives,86787,2054,2026-08-24,62,62.56,3879,,PikaProtocol
+Xyra Labs Perps,xyra-labs-perps,Aptos,Derivatives,0,22360,2026-04-13,195,19.57,3816,,kanalabs
+Hydro Inflow,hydro-inflow,Neutron,Yield,0,14780,2026-09-07,48,78.99,3792,https://hydro.markets/,hydromarkets
+Unibot,unibot,Ethereum,Telegram Bot,0,14399,2026-06-07,140,25.92,3629,https://unibot.app,TeamUnibot
+Navigator,navigator,Sonic,Derivatives,357499,28350,2026-08-25,61,58.82,3588,https://www.navigator.exchange/,NaviExSonic
+BlazingApp,blazingapp,"Ethereum,BSC,Base,Solana,Sonic,Avalanche,Berachain,Data Network",Trading App,0,45861,2026-09-24,31,115.46,3579,https://blazingapp.com,blazingapp
+Taco,taco,"Hyperliquid L1,zkLighter",Interface,0,3635,2026-09-15,40,88.64,3546,https://app.taco.trade/trade/,TacoTradeX
+STEAMM,steamm,Sui,Dexs,308245,328541,2026-09-12,43,81.56,3507,https://steamm.fi,steammfi
+SX Bet V2,sx-bet-v2,SX Rollup,Prediction Market,0,2474,2026-08-26,60,56.97,3418,https://sx.bet,sx_bet
+Priority,priority,MegaETH,Telegram Bot,0,1250,2026-08-04,82,40.87,3351,https://t.me/prioritytradebot,PriorityTrade_
+Elix.fi,elix.fi,Somnia,Dexs,3443,1921,2026-04-22,186,17.83,3316,https://www.elix.fi/,elix_fi
+Punk.Coffee,punk.coffee,BSC,Prediction Market,2484,2846,2026-01-27,271,12.2,3306,,punkdotcoffee
+Magnum Bot,magnum-bot,Solana,Trading App,0,1304,2026-03-13,226,13.9,3141,https://magnum.trade/,MagnumDexBot
+Swap Country,swap-country,Harmony,Dexs,0,2237,2026-09-08,47,64.92,3051,,harmonyprotocol
+Mesha,mesha,Robinhood Chain,Derivatives,0,3021,2026-10-05,20,151.07,3021,https://mesha.fun,mesha_fun
+Origin Sonic,origin-sonic,Sonic,Liquid Staking,131390,28179,2026-07-14,103,29.09,2996,https://www.originprotocol.com,OriginProtocol
+Dream,dream,"Derive Chain,Off Chain,Derive V3",Options,0,12446,2026-10-14,11,271.42,2986,https://dreamos.app/,dreaming
+Whales Market,whales-market,"Abstract,Taiko,Linea,Hyperliquid L1,Scroll,Mode,Berachain,ZKsync Era,Arbitrum,Ethereum,Avalanche,Base,OP Mainnet,BSC,Solana",OTC Marketplace,637301,4339,2026-10-14,11,255.23,2808,https://whales.market/,WhalesMarket
+Falcon Bot,falcon-bot,Solana,Telegram Bot,0,1915,2026-04-20,188,14.43,2713,https://botfalcon.gitbook.io/bot,blchead
+HyperFX,hyperfx,"OP Mainnet,Arbitrum,Base,Polygon,Ethereum,BSC",DEX Aggregator,0,2790,2026-09-22,33,77.86,2569,https://hyperfx.finance,hyperfx_finance
+Polter Finance,polter-finance,"Fantom,Base,Sonic",Lending,12538,3259,2026-06-08,139,18.47,2567,,polterfinance
+Puppyfun,puppyfun,BSC,Launchpad,37127,1367,2026-09-02,53,48.26,2558,,puppydotfun
+Bulla Exchange,bulla-exchange,Berachain,Dexs,3753,59616,2026-08-05,81,30.5,2470,https://www.bulla.exchange,BullaExchange
+iZiSwap,iziswap,"IoTeX,BSC,ZKsync Era,Arbitrum,Meter,Aurora,Polygon,Mantle,OntologyEVM,Ultron,Linea,Scroll,Base,Manta,ZetaChain,Mode,Hemi,Monad",Dexs,1598386,53745,2026-09-13,42,57.96,2434,https://izumi.finance/trade/swap,izumi_Finance
+MYX Finance,myx-finance,"Linea,Arbitrum,BSC",Derivatives,102284,45353,2026-07-15,102,23.47,2394,https://app.myx.finance,MYX_Finance
+HyperCat,hypercat,Hyperliquid L1,Dexs,1145,4916,2026-02-10,257,9.17,2357,,hypercatex
+PacaSwap DEX,pacaswap-dex,Pacaswap,Dexs,0,9131,2026-09-09,46,47.91,2204,https://pacaswap.com/dashboard,PacaSwap
+Loong,loong,BSC,Launchpad,0,3826,2026-10-16,9,239.11,2152,,loongfam
+Prism DEX,prism-dex,MegaETH,Dexs,0,100098,2026-09-11,44,48.88,2151,https://prismfi.cc,PrismFi_
+Spaace NFT Marketplace,spaace-nft-marketplace,Ethereum,NFT Marketplace,0,260442,2026-07-01,116,18.08,2097,,spaace_io
+Onyx Perps,onyx-perps,Hyperliquid L1,Interface,0,61867,2026-09-10,45,45.32,2039,https://app.onyx.live/trade,Onyx_terminal
+Cyberperp,cyberperp,IOTA,Derivatives,9423,8345,2026-06-19,128,14.53,1860,,cyberperp
+SpeedTrading,speedtrading,Abstract,Derivatives,0,266918,2026-06-11,136,13.51,1837,,pandoradotfun
+Xeleb Protocol,xeleb-protocol,BSC,AI Agents,0,5114,2026-10-02,23,75.1,1727,https://xeleb.io/,xelebofficial
+Lootbase Perps,lootbase-perps,Hyperliquid L1,Interface,0,137630,2026-09-29,26,63.37,1648,https://lootbase.com/,LootbaseX
+HyperSignals,hypersignals,"Hyperliquid L1,Starknet",Interface,0,164005,2026-07-23,94,16.99,1597,https://hypersignals.ai/,HyperSignals_ai
+UnicornX,unicornx,"Solana,BSC",Trading App,0,5449,2026-04-03,205,6.47,1326,,unicornxdex
+Saber,saber,Solana,Dexs,5099661,8532,2026-09-06,49,27.0,1323,,thesaberdao
+Ranger Finance Perps,ranger-finance-perps,Hyperliquid L1,Interface,0,20796,2026-03-02,237,5.43,1287,,ranger_finance
+DropSwap,dropswap,"Solana,Arbitrum,Ethereum,Avalanche,BSC,Berachain,Polygon,Base,Plasma,OP Mainnet,Robinhood Chain,Mantle,Blast,Soneium,Unichain,Scroll,Gnosis,Linea,Sei,Hyperliquid L1,Monad,Abstract",DEX Aggregator,24,2023,2026-10-06,19,67.31,1279,https://dropswap.finance,DT_10GB
+Corn,corn,Corn,Chain,0,3099,2026-06-30,117,10.87,1272,,
+Interface Social,interface-social,"Ethereum,Base",Interface,0,11955,2026-10-18,7,181.43,1270,https://www.interface.social/,interfacedapp
+OBSDN,obsdn,Monad,Derivatives,6,1255,2026-07-30,87,13.87,1207,,obsdntrade
+Saros AMM,saros-amm,Solana,Dexs,44148,17250,2026-07-18,99,11.52,1140,https://saros.xyz/pools,saros_xyz
+Polygon zkEVM,polygon-zkevm,Polygon zkEVM,Chain,0,4405,2026-07-02,115,9.78,1125,,
+Superposition,superposition,Superposition,Chain,152281,43423,2026-08-02,84,13.24,1112,https://www.superposition.finance,superp_fi
+Surge Trade,surge-trade,Radix,Derivatives,0,3488,2026-05-10,168,6.61,1110,https://www.surge.trade,surge_trade
+Eventum,eventum,Eventum,Chain,0,2209,2026-07-01,116,9.32,1081,,
+Sophon,sophon,Sophon,Chain,0,164204,2026-08-11,75,13.75,1031,,
+Ocelex V2,ocelex-v2,Zircuit,Dexs,15597,38167,2026-09-22,33,30.99,1023,,OcelexFi
+Tribe.run,tribe.run,Solana,SoFi,177342,3621,2026-10-06,19,45.97,873,https://www.tribe.run/,tribedotrun
+HyperSwap Terminal,hyperswap-terminal,Hyperliquid L1,Interface,0,6104,2026-06-25,122,7.12,869,https://trade.hyperswap.exchange/trade?ref=defillama,HyperSwapX
+Fathom CDP,fathom-cdp,XDC,CDP,233880,12738,2026-08-27,59,13.68,807,https://fathom.fi/,Fathom_fi
+Monorail,monorail,Monad,DEX Aggregator,0,12012,2026-09-21,34,23.56,801,https://monorail.xyz/,monorail_xyz
+Adrena Protocol,adrena-protocol,Solana,Derivatives,44854,1594245,2026-08-25,61,13.01,794,https://www.adrena.trade,AdrenaProtocol
+ZOO.FUN,zoo.fun,Abstract,Launchpad,7603,2534,2026-10-17,8,98.61,789,,zoodotfun
+Hydration,hydration,Hydration,Chain,0,2886,2026-08-26,60,13.13,788,,
+Botanix,botanix,Botanix,Chain,0,163701,2026-07-07,110,7.0,770,,
+BrownFi V2,brownfi-v2,"Base,Arbitrum,BSC,Berachain,Hyperliquid L1,Linea,Monad",Dexs,5865,307128,2026-08-19,67,11.24,753,https://brownfi.io/,brownfiamm
+CaviarNine Shape Liquidity,caviarnine-shape-liquidity,Radix,Dexs,0,8366,2026-08-31,55,12.52,689,,CaviarNine
+Marquee,marquee,Arbitrum,Insurance,1618,6091,2026-06-14,133,5.01,666,,Marquee_fi
+Uniswap Labs,uniswap-labs,"OP Mainnet,Ethereum,Polygon,Arbitrum,Base,BSC,Avalanche",Developer Tools,0,5972716,2026-09-19,36,18.18,654,https://app.uniswap.org/,Uniswap
+Pyth Express Relay,pyth-express-relay,Solana,MEV,0,18037,2026-08-26,60,10.26,616,https://www.pyth.network/,PythNetwork
+DoubleUp,doubleup,Sui,Luck Games,34962,584995,2026-09-23,32,19.21,615,https://www.doubleup.io/,doubleup_app
+Stargate V1,stargate-v1,"OP Mainnet,Ethereum,Avalanche,Polygon,Arbitrum,Fantom,BSC,Metis,Base,Linea,Mantle,Kava",Cross Chain Bridge,8796465,16125,2026-09-08,47,13.02,612,https://stargate.finance/,StargateFinance
+Earnium,earnium,Aptos,Dexs,0,3433,2026-04-07,201,3.03,609,,earnium_io
+Goblin,goblin,Aptos,Yield Aggregator,42,1667,2026-08-11,75,8.03,602,https://goblin.fi/,the_goblin_fi
+Velto,velto,Orderly Network,Interface,0,22632,2026-09-11,44,12.49,550,https://velto.com,veltoapp
+StellaSwap V2,stellaswap-v2,"Moonbeam,Waves",Dexs,0,2628,2026-08-01,85,6.44,547,https://stellaswap.com,StellaSwap
+Tapp Exchange,tapp-exchange,Aptos,Dexs,0,166055,2026-08-19,67,8.0,536,,TappExchange
+GasPump,gaspump,TON,Launchpad,0,6967,2026-09-02,53,9.61,509,,gaspump_tv
+MarkIt,markit,Base,Prediction Market,0,6651,2026-10-11,14,36.26,508,https://markit.market,markit_markets
+Penpie,penpie,"BSC,Arbitrum,Ethereum",Yield,5887367,1323889,2026-10-16,9,56.14,505,https://www.pendle.magpiexyz.io/stake,Penpiexyz_io
+Moonbeam,moonbeam,Moonbeam,Chain,0,3993,2026-07-31,86,5.84,502,https://moonbeam.network/,MoonbeamNetwork
+Ferra DLMM,ferra-dlmm,Sui,Dexs,128277,104777,2026-10-04,21,23.51,494,https://ferra.ag,ferra_protocol
+NICKEL,nickel,Base,Gamified Mining,0,3582,2026-07-17,100,4.79,479,,NickelSupply
+Xfai,xfai,Linea,Dexs,26,4042,2026-08-11,75,6.03,452,,xfai_official
+Kairos Timeboost,kairos-timeboost,Arbitrum,MEV,0,75359,2026-10-13,12,37.25,447,,gattacahq
+Vicuna Lending,vicuna-lending,Sonic,Lending,17393,3375,2026-10-15,10,43.81,438,,VicunaFinance
+Botanix stBTC,botanix-stbtc,Botanix,Liquid Staking,0,86006,2026-07-03,114,3.81,434,,BotanixLabs
+Uxuy Perps,uxuy-perps,Hyperliquid L1,Interface,0,31550,2026-09-21,34,12.63,429,https://www.uxuy.com/,uxuycom
+Arbitrage Inc,arbitrage-inc,BSC,DEX Aggregator,0,1817,2026-10-09,16,24.88,398,https://arbitrage-inc.exchange,Arbitrageincept
+OctoSwap CL,octoswap-cl,Monad,Dexs,830,1912,2026-05-12,166,2.38,395,https://octo.exchange/,octoswapdex
+dotMEGA Domains,dotmega-domains,MegaETH,Domains,0,15298,2026-10-01,24,15.99,384,https://dotmega.domains/,dotmegadomains
+Amped Finance,amped-finance,"LightLink,Sonic,Berachain,Base",Derivatives,127,30250,2026-05-25,153,2.45,375,https://amped.finance/,ampedfinance
+Nemo Vault,nemo-vault,Sui,Yield Aggregator,30246,4061,2026-02-11,256,1.4,358,,nemoprotocol
+Meso Finance,meso-finance,Aptos,Lending,38738,23128,2026-07-28,89,3.98,354,,Meso_Finance
+Samsara,samsara,Solana,Onchain Capital Allocator,0,666302,2026-10-16,9,39.15,352,https://samsara.nirvana.finance/,nirvana_fi
+Superlend,superlend,Etherlink,Lending,5059,122875,2026-09-29,26,12.65,329,,SuperlendHQ
+Coinhain,coinhain,BSC,Dexs,630,14538,2026-02-09,258,1.17,302,,coinhain
+Citrea,citrea,Citrea,Chain,0,43486,2026-10-09,16,18.63,298,,
+Somnex Perp,somnex-perp,Somnia,Derivatives,0,86723,2026-08-19,67,4.21,282,https://somnex.xyz/,SomnexXYZ
+FlowBot Perps,flowbot-perps,"Hyperliquid L1,zkLighter,Solana,Ink,Paradex,Starknet",Interface,0,67033,2026-09-20,35,7.79,273,https://flowbot.pro,T0nyCrypt0
+Ape Jupiter,ape-jupiter,Solana,Launchpad,0,3978,2026-07-11,106,2.5,265,https://ape.pro,JupiterExchange
+Mind Network,mind-network,Mind Network,Chain,26246,4311,2026-05-31,147,1.76,259,https://www.mindnetwork.xyz,mindnetwork_xyz
+Avantgarde,avantgarde,"Ethereum,Base",Risk Curators,193,63769,2026-07-20,97,2.64,256,https://app.morpho.org/ethereum/curator/avantgarde,avantgardefi
+Sanko,sanko,Sanko,Chain,0,31364,2026-03-05,234,1.03,241,,
+Pump Party,pump-party,MegaETH,Gaming,0,13248,2026-09-25,30,7.55,226,https://www.pumpparty.com/,pumpparty
+Hermes V2,hermes-v2,Arbitrum,Yield,7052,9610,2026-10-01,24,9.32,224,https://www.maiadao.io,HermesOmnichain
+EchoSync Perps,echosync-perps,Hyperliquid L1,Interface,0,81322,2026-09-05,50,4.44,222,,echosync_hq
+Amigo,amigo,Abstract,SoFi,10873,31227,2026-10-09,16,13.76,220,https://amigo.cool/,TryAmigoApp
+AUR Protocol,aur-protocol,Sui,Gamified Mining,0,33612,2026-07-27,90,2.42,218,https://aur.supply,aursupply
+RubyScore,rubyscore,"OP Mainnet,Linea,Base,ZKsync Era,Scroll,Arbitrum,Ink,Unichain,Celo,ApeChain,Polygon,Mode,Berachain,Katana,Avalanche,Plasma,BSC,Sonic,Abstract",Services,0,3213,2026-07-06,111,1.72,191,https://rubyscore.io/,rubyscore_io
+LN Exchange Perps,ln-exchange-perps,Off Chain,Derivatives,0,5522,2026-08-06,80,2.31,185,https://app.ln.exchange/,LNExchange
+YeiSwap,yeiswap,Sei,Dexs,0,1251,2026-06-04,143,1.04,149,https://swap.yei.finance/,YeiFinance
+swap.coffee,swap.coffee,TON,DEX Aggregator,76570,3126,2026-10-07,18,8.23,148,https://swap.coffee/dex,swap_coffee_ton
+PriveX,privex,"Base,Coti",Interface,0,78223,2026-10-05,20,7.25,145,https://prvx.io,PriveX_Official
+Molten V4,molten-v4,CORE,Dexs,0,34400,2026-09-11,44,3.14,138,,glyph_exchange
+Pluto Perps,pluto-perps,Hyperliquid L1,Interface,0,3012,2026-10-07,18,7.69,138,https://tradepluto.com,trade_pluto
+Tsunami V3,tsunami-v3,Ink,Dexs,50,2148,2026-07-31,86,1.59,137, ,
+Valiant Trade Perps,valiant-trade-perps,Hyperliquid L1,Interface,0,19069,2026-09-29,26,4.8,125,https://valiant.trade/perps/,ValiantTrade
+UpDown,updown,Celo,Derivatives,0,2184,2026-10-09,16,7.77,124,https://www.updown.xyz,updownxyz
+Worldle,worldle,World Chain,Gaming,0,3333,2026-08-26,60,2.03,122,https://world.org/ecosystem/app_c895e94c9c7d2ab9899b6083ad95e31d,WorldleToday
+stabble CLMM,stabble-clmm,Solana,Dexs,40,1372,2026-06-28,119,1.02,121,,stabbleorg
+DeltaDeFi,deltadefi,Cardano,Dexs,0,1367,2026-07-14,103,1.17,121,https://www.deltadefi.io,DeltaDeFi
+Domination Finance,domination-finance,Base,Derivatives,97237,1159,2026-10-18,7,17.11,120,https://domination.finance,dominationfi
+Swellchain,swellchain,Swellchain,Chain,0,1002,2026-06-25,122,0.98,120,,
+CheapGM,cheapgm,"Ethereum,Ronin,World Chain,Polygon,X Layer,Mode,Metis,Celo,CORE,Ink,Lisk,Botanix,Redstone,BOB,Ancient8,Zora,Zircuit,ApeChain,OP Mainnet,Blast,BSC,Berachain,Plume Mainnet,Morph,Sonic,Base,Linea,Kaia,Unichain,Polygon zkEVM,Soneium,Gnosis,Mantle,Manta,Conflux,Cronos,Arbitrum,Scroll,Taiko,ZKsync Era,Abstract",Payments,0,2560,2026-10-12,13,7.67,100,,gmcheap
+Echo Liquid Staking,echo-liquid-staking,Aptos,Liquid Staking,11473,15454,2026-08-22,64,1.48,95,https://vault.echo-protocol.xyz/,EchoProtocol_
+Neon,neon,Neon,Chain,0,2909,2026-10-08,17,4.98,85,,
+HyperBloom,hyperbloom,Hyperliquid L1,DEX Aggregator,45035,17688,2026-08-24,62,1.24,77,https://www.hyperbloom.xyz/,hyperbloomxyz
+Delphi,delphi,Gensyn,Prediction Market,0,1240,2026-10-17,8,9.45,76,https://app.delphi.fyi/,delphi_fyi
+Fluid DEX Lite,fluid-dex-lite,Ethereum,Dexs,0,14653,2026-09-09,46,1.64,75,https://www.fluid.io/,0xfluid
+THENA PERPS,thena-perps,BSC,Derivatives,0,5803,2026-09-22,33,2.21,73,https://alpha.thena.fi,ThenaFi_
+RH.fun,rh.fun,Robinhood Chain,Launchpad,1599,7697,2026-10-15,10,6.86,69,https://rh.fun,RHdotfun
+Pinot V3,pinot-v3,Monad,Dexs,133,1356,2026-07-01,116,0.56,65,,pinotfinance
+UltraYield Curator,ultrayield-curator,TAC,Risk Curators,49030403,27834,2026-10-10,15,3.77,57,https://ultrayield.app/,ultrayieldapp
+Satori Perp,satori-perp,"ZKsync Era,Polygon zkEVM,Scroll,Linea,Base,Arbitrum,X Layer,Plume,Zircuit,Data Network,Ethereum,BSC,OP Mainnet,TON,Hemi,Plume Mainnet",Derivatives,9709,1433060,2026-07-15,102,0.55,56,,SatoriFinance
+SailFish Finance,sailfish-finance,EDU Chain,Dexs,551,112986,2026-09-03,52,1.08,56,https://sailfish.finance,SailFishFinance
+Omni Exchange V3,omni-exchange-v3,"Sonic,BSC,Avalanche,OP Mainnet,Arbitrum,Base,Plasma",Dexs,7992,26608,2026-08-23,63,0.87,55,,Omni_Exchange
+DuckChain,duckchain,DuckChain,Chain,0,189903,2026-07-13,104,0.42,44,,
+DFK,dfk,DFK,Chain,0,3975,2026-08-28,58,0.76,44,,
+Balanced Exchange,balanced-exchange,Icon,Dexs,1982217,15543,2026-10-18,7,4.41,31,https://app.balanced.network/trade,BalancedDeFi
+Based Alpha,based-alpha,Robinhood Chain,Launchpad,13910,5922,2026-09-29,26,1.1,29,https://alpha.based.one,BasedOneX
+Supercexy Spot,supercexy-spot,Hyperliquid L1,Interface,0,3984,2026-10-14,11,2.25,25,https://supercexy.com/,try_supercexy
+CSC,csc,CSC,Chain,0,1072,2026-09-28,27,0.73,20,,
+Beradrome,beradrome,Berachain,Yield,432516,122111,2026-10-14,11,1.41,16,https://www.beradrome.com,beradrome
+YOLO Games,yolo-games,Blast,Gaming,0,3828,2026-10-14,11,0.99,11,https://yologames.io/,YOLO_Blast
+Juiceswap,juiceswap,Citrea,Dexs,325,6612,2026-08-31,55,0.17,9,https://bapp.juiceswap.com/,JuiceSwap_com
+Syndicate,syndicate,Syndicate,Chain,0,1184,2026-07-19,98,0.08,8,,
+Snap V3,snap-v3,TAC,Dexs,3001,10042,2026-10-09,16,0.37,6,https://www.snap.club/,SNAP_DEX
+reddex,reddex,Redbelly,Dexs,13360,3891,2026-10-18,7,0.8,6,https://reddex.io,reddex_io
+Seamless Vaults,seamless-vaults,Base,Onchain Capital Allocator,0,697204,2026-08-27,59,0.09,5,,SeamlessFi
+Haedal AMM Protocol,haedal-amm-protocol,Sui,Dexs,1429,264270,2026-09-22,33,0.12,4,https://haedal.xyz/,haedalprotocol
+Ferra CLMM,ferra-clmm,Sui,Dexs,985,4992,2026-09-14,41,0.08,3,https://ferra.ag,ferra_protocol
+DataDex,datadex,Vana,Dexs,196206,38376,2026-10-18,7,0.18,1,https://www.datadex.com/,vanadatadex
+Matchain,matchain,Matchain,Chain,0,7667,2026-10-15,10,0.08,1,,
+Honeypot Finance,honeypot-finance,Orderly Network,Interface,0,3830,2026-07-27,90,0.01,1,https://honeypotfinance.xyz/,honeypotfinance
+ParitySwap V3,parityswap-v3,Robinhood Chain,Dexs,61,2377,2026-10-18,7,0.02,0,https://app.parityswap.io,Parity_io

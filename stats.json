@@ -1,0 +1,61 @@
+{
+ "generated_at": "2026-10-26T01:28:34Z",
+ "fee_listed_protocols": 3069,
+ "silent_feeds": 411,
+ "silent_on_base": 60,
+ "estimated_hole_usd": 642965813,
+ "current_hole_per_day_usd": 3333964,
+ "oldest_break": "2025-10-31",
+ "newest_break": "2026-10-18",
+ "base_protocols_without_fee_coverage": 80,
+ "base_protocols_scanned": 908,
+ "flat_tvl_feeds_checked": 237,
+ "flat_tvl_feeds_found": 1,
+ "top_base_targets": [
+  {
+   "name": "Kaito Capital Launchpad",
+   "slug": "kaito-capital-launchpad",
+   "tvl": 0,
+   "last_day": "2026-01-26",
+   "dark_days": 272,
+   "per_day": 154803.0,
+   "url": "https://kaito.ai/capital-launchpad"
+  },
+  {
+   "name": "Impermax V2",
+   "slug": "impermax-v2",
+   "tvl": 530455,
+   "last_day": "2026-01-24",
+   "dark_days": 274,
+   "per_day": 85105.9,
+   "url": "https://impermax.finance/"
+  },
+  {
+   "name": "Autopilot",
+   "slug": "autopilot",
+   "tvl": 61661,
+   "last_day": "2026-03-26",
+   "dark_days": 213,
+   "per_day": 57701.53,
+   "url": ""
+  },
+  {
+   "name": "Superchain",
+   "slug": "superchain",
+   "tvl": 0,
+   "last_day": "2026-09-01",
+   "dark_days": 54,
+   "per_day": 151493.9,
+   "url": "https://optimism.io/"
+  },
+  {
+   "name": "VolBoost",
+   "slug": "volboost",
+   "tvl": 0,
+   "last_day": "2026-04-07",
+   "dark_days": 201,
+   "per_day": 13445.2,
+   "url": "https://volboost.com/"
+  }
+ ]
+}

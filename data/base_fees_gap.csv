@@ -1,0 +1,81 @@
+name,slug,tvl_usd,category,url,chains,listed_at,twitter,audits
+Spark Savings,spark-savings,1600605788,Yield,https://spark.finance/,8,1757630167,sparkfinance,1
+Anemoy Capital,anemoy-capital,329988170,RWA,https://www.anemoy.io,3,1733763997,anemoycapital,1
+Team Finance,team-finance,61639998,Token Locker,https://www.team.finance,22,1656506800,TeamFinance_,1
+ZEROBASE CeDeFi,zerobase-cedefi,60795107,Basis Trading,https://app.zerobase.pro/,7,1749017141,zerobasezk,1
+Gami Labs,gami-labs,58410645,Risk Curators,https://gamilabs.io/,7,1780082008,GamiLabs,1
+Brickken,brickken,42430974,RWA,https://www.brickken.com,5,1706108852,Brickken,1
+Zoo Finance,zoo-finance,32799345,Yield,https://zoofi.io,6,1739186083,ZooFinanceIO,1
+GoPlus Locker V3,goplus-locker-v3,30656033,Token Locker,https://gopluslabs.io,4,1741988038,GoPlusSecurity,1
+UNCX Network V3,uncx-network-v3,26540895,Token Locker,https://uncx.network/,10,1688652343,UNCX_token,1
+T RIZE,t-rize,23000000,RWA,https://www.t-rize.io,1,1743588008,trize_io,1
+DxSale,dxsale,18759589,Launchpad,https://dx.app,22,1657847483,dxsale,1
+Harvest Finance,harvest-finance,18096472,Yield Aggregator,https://harvest.finance/,5,,harvest_finance,1
+Bitwise,bitwise,17798400,Risk Curators,https://app.morpho.org/curator/bitwise,3,1788459477,Bitwise,1
+Aerodrome Ignition,aerodrome-ignition,17176010,Launchpad,https://aerodrome.finance/,1,1762203887,aeroxyz,1
+Syntetika,syntetika,17127711,Risk Curators,https://syntetika.io/,1,1787173187,Syntetika,1
+Royco V2,royco-v2,14931803,Yield,https://www.royco.org,4,1771444045,roycoprotocol,1
+Aevo Perps,aevo-perps,14804099,Derivatives,https://app.aevo.xyz/r/defillama,4,1681122429,aevoxyz,1
+XSY,xsy,12982312,Basis Trading,https://xsy.fi,2,1758064577,xsy_fi,1
+FlokiFi Locker,flokifi-locker,11907860,Token Locker,https://flokifi.com,15,1672835629,FlokiFi,1
+ACryptoS,acryptos,10529591,Liquidity Manager,https://www.acryptos.com/,17,,acryptosdao,1
+Pangolins,pangolins,9255835,Risk Curators,https://pangolins.io/,2,1788546161,PangolinsVault,1
+Anthias Labs,anthias-labs,8661560,Risk Curators,https://anthias.xyz,1,1778007858,anthiasxyz,1
+Deri V4,deri-v4,7511339,Options,https://deri.io/#/trade/options,12,1701256822,DeriProtocol,1
+BTCFi CDP,btcfi-cdp,7115956,CDP,https://btcfi.one,4,1713779453,Bifrost_Network,1
+Spectra MetaVaults,spectra-metavaults,6522019,Onchain Capital Allocator,https://app.spectra.finance/metavaults,6,,spectra_finance,1
+ICHI,ichi,6327268,Liquidity Manager,https://www.ichi.org,27,1637376327,ichifoundation,1
+Unitus,unitus,6298525,Lending,https://unitus.finance/,7,1703014661,unitusfi,1
+Harmonix Finance,harmonix-finance,6102437,Yield,https://app.harmonix.fi,4,1720402237,harmonixfi,1
+UNCX Network V4,uncx-network-v4,4343643,Token Locker,https://uncx.network/,7,1783047169,UNCX_token,1
+TheDeep,thedeep,4317136,Liquidity Manager,https://app.thedeep.ink/,9,1752861093,TheDeep_xyz,1
+WOOFi Earn,woofi-earn,3932761,Yield,https://fi.woo.org/earn,9,1668524390,_WOOFi,1
+zkLink Nova,zklink-nova,3736637,Chain,https://zklink.io,11,,zkLink_Official,1
+TermFinance Lend,termfinance-lend,3533230,Lending,https://term.finance,5,1692193295,term_labs,1
+iAero Protocol,iaero-protocol,3326351,Liquid Staking,https://app.iaero.finance/,1,1764008721,iaeroProtocol,1
+Spectra MetaVaults Outside V2,spectra-metavaults-outside-v2,3161438,Onchain Capital Allocator,https://app.spectra.finance/metavaults,6,1772044022,spectra_finance,1
+Bio Protocol,bio-protocol,2952710,Launchpad,https://www.bio.xyz/,2,1760735837,BioProtocol,1
+Saffron Vaults,saffron-vaults,2742219,Yield,https://saffron.finance,9,1785212633,saffron,1
+Ledgity Yield,ledgity-yield,2362390,Yield,https://ledgity.finance/,5,1776808973,LedgityYield,1
+OmniBTC,omnibtc,1928144,Lending,https://www.omnibtc.finance,8,1692193286,OmniBTC,1
+Baseline Protocol,baseline-protocol,1724009,Liquidity Manager,https://www.baseline.markets/,3,1709554968,BaselineMarkets,1
+TermFinance Vaults,termfinance-vaults,1662547,Yield,https://www.term.finance,6,1742831758,term_labs,1
+MORE Vaults,more-vaults,1635941,Onchain Capital Allocator,https://www.more.markets/,5,1751893629,MORE_DeFi,1
+Aegis Markets,aegis-markets,1616966,Liquidity Manager,https://aegis.markets/,2,1764962057,AegisMarkets,1
+Privacy Boost,privacy-boost,1552037,Privacy,https://www.privacyboost.io/,3,1788975411,PrivacyBoost,1
+Zircuit Finance,zircuit-finance,1502944,Yield,https://finance.zircuit.com/,2,1772047361,Zircuit,1
+Mountain Protocol,mountain-protocol,1401834,RWA,https://mountainprotocol.com,6,1696533115,MountainUSDM,1
+ELFi Protocol,elfi-protocol,1395115,Derivatives,,2,1726752333,ELFiProtocol,1
+The Moats,the-moats,1354455,Staking Pool,https://moats.app/,5,1791849741,Moats_app,1
+Mitosis,mitosis,1316884,Onchain Capital Allocator,https://mitosis.org,12,1715679045,MitosisOrg,1
+Architect,architect,1260890,Risk Curators,https://architect.systems/,1,1788369942,,1
+Butter Network,butter-network,1197784,Cross Chain Bridge,https://www.butterswap.io/swap,15,1671145989,ButterNetworkio,1
+RealtyX,realtyx,1022205,RWA,https://realtyx.co/,2,1749485401,RealtyX_DAO,1
+MortgageFi,mortgagefi,978634,Lending,https://mortgagefi.app,2,1732200654,MortgageFiApp,1
+Teller,teller,958252,Lending,,9,1680005661,useteller,1
+Alien Base V3,alien-base-v3,946578,Dexs,https://alienbase.xyz,1,1701883740,AlienBaseDEX,1
+YieldSeeker,yieldseeker,913571,Yield Aggregator,https://yieldseeker.xyz,1,1775062029,yieldseekerxyz,1
+DeTrade,detrade,808379,Risk Curators,,3,1790357678,detradefund,1
+Meson,meson,707054,Cross Chain Bridge,https://meson.fi/home,44,1714402395,mesonfi,1
+Mint Club V2,mint-club-v2,676870,Launchpad,https://mint.club,13,1706795796,MintClubPro,1
+722 Capital,722-capital,663252,Risk Curators,https://722.capital/,2,1789668678,722Capital,1
+8lends,8lends,605289,RWA,https://app.8lends.io,1,1754371223,eightlends,1
+Ethos Network,ethos-network,594736,SoFi,https://ethos.network/,1,1737664915,ethos_network,1
+Extra Finance Vaults,extra-finance-vaults,585619,Onchain Capital Allocator,https://app.extrafi.io/,1,1748971417,extrafi_io,1
+Krystal Auto-Farm Vault,krystal-auto-farm-vault,575051,AI Agents,https://krystal.app,9,1738953599,KrystalDeFi,1
+OTSea,otsea,553529,Dexs,,3,1718717971,otseaERC20,1
+Toucan Protocol,toucan-protocol,549473,RWA,,4,1659621481,ToucanProtocol,1
+Wasabi Perps,wasabi-perps,547794,Derivatives,https://app.wasabi.xyz,5,1682542892,wasabi_protocol,1
+EZManager,ezmanager,531836,Liquidity Manager,https://ezmanager.finance,6,1772727222,EZManagerCL,1
+IPOR Derivatives,ipor-derivatives,489721,Derivatives,https://app.ipor.io/fusion?f=D0V4X4doim7oC8cTQZzAZXBOkbwaf,3,1664876804,ipor_io,1
+PICWE,picwe,487191,Dexs,https://www.picwe.org/en,3,1743002205,PicWeGlobal,1
+Tetu Earn,tetu-earn,483279,Yield,http://tetu.io,5,,tetu_io,1
+Sherpa,sherpa,473130,Onchain Capital Allocator,https://earn.sherpa.trade,3,1764374337,Sherpa_trade,1
+RocketSwap Base,rocketswap-base,471139,Dexs,https://app.rocketswap.cc/exchange/swap,1,1690797861,Rocket_Swap_,1
+JPEG Trading,jpeg-trading,453879,Risk Curators,https://www.jpeg-trading.com/,2,1789148129,jpegtrading,1
+RollX,rollx,445782,Derivatives,https://rollx.trade/,2,1743442067,rollxfi,1
+Hydrex Omni,hydrex-omni,436436,Dexs,https://www.hydrex.fi?anchorRef=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10,1,1751133837,hydrexfi,1
+Biswap V3,biswap-v3,397726,Dexs,https://biswap.org/pool,4,1688392041,Biswap_Dex,1
+Ample,ample,325304,Yield Lottery,https://ample.money/,9,1772599975,AmpleHQ,1
+Sprinter,sprinter,310908,Yield,https://sprinter.tech/,1,1753971659,sprinter_ux,1
+RAGE Protocol,rage-protocol,306401,Onchain Capital Allocator,https://ultraroundmoney.com/rage,1,,therageprotocol,1
